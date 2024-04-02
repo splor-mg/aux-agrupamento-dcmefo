@@ -14,6 +14,9 @@
   - name: ELEM_ITEM_DESC
     target: elem_item_desc
     type: string
+    missingValues:
+      - ""
+      - "-"
     constraints:
       required: true
 
@@ -23,8 +26,6 @@
     constraints:
       required: true
 
-
-  
-  
-
-
+primaryKey: 
+  - UO_COD
+  - ELEM_ITEM_COD
