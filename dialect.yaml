@@ -1,2 +1,5 @@
-csv:
-  delimiter: '|'
+excel:
+  sheet: agrupamento
+headerRows: # mesmo nível da propriedade excel
+  - 1
+

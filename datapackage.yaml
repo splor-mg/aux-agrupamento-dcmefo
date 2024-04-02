@@ -1,14 +1,16 @@
 name: aux-agrupamento-dcmefo
+sources:
+  - title: Sharepoint da SPLOR
+    path: https://cecad365.sharepoint.com/sites/Splor/
+    drive: Documentos
+    item: General/@dcmefo/projetos/aux-agrupamento-dcmefo
+    dest: data-raw/
+
 resources:
-  - name: fact
-    path: data-raw/fact.txt
-    format: csv
-    encoding: utf-8
+  - name: aux-agrupamento-dcmefo
+    path: data-raw/aux-agrupamento-dcmefo.xlsx
+    format: xlsx
+    encoding: windows-1252
     dialect: dialect.yaml
-    schema: schemas/fact.yaml
-  - name: dim
-    path: data-raw/dim.txt
-    format: csv
-    encoding: utf-8
-    dialect: dialect.yaml
-    schema: schemas/dim.yaml
+    schema: schemas/aux-agrupamento-dcmefo.yaml
+ 

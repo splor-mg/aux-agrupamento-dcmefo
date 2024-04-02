@@ -1,3 +1,4 @@
 pip-tools
-frictionless
 git+https://github.com/splor-mg/dpm.git@main
+pandas==2.0.2
+frictionless[excel, pandas]==5.13.1

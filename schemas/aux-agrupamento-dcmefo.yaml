@@ -1,0 +1,30 @@
+﻿fields:
+  - name: UO_COD
+    target: uo_cod
+    type: integer
+    constraints:
+      required: true
+
+  - name: ELEM_ITEM_COD
+    target: elem_item_cod
+    type: integer
+    constraints:
+      required: true
+
+  - name: ELEM_ITEM_DESC
+    target: elem_item_desc
+    type: integer
+    constraints:
+      required: true
+
+  - name: AGRUPAMENTO
+    target: agrupamento_dcmefo
+    type: string
+    constraints:
+      required: true
+
+
+  
+  
+
+

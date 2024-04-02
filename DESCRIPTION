@@ -2,4 +2,14 @@ Package: aux-agrupamento-dcmefo
 Imports:
     renv
     testthat (>= 3.0.0),
+    frictionless,
+    data.table,
+    httpuv,
+    Microsoft365R,
+    testthat,
+    validate,
+    readxl,
+    purrr,
+    here,
+    writexl
 Encoding: UTF-8
