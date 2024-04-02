@@ -1,6 +1,5 @@
 from frictionless import Package
 import typer
-from scripts.extract import extract_resource
 from scripts.transform import transform_resource
 from scripts.build import build_package
 
