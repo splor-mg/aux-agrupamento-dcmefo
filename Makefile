@@ -2,22 +2,15 @@
 
 include config.mk
 
-EXT = txt
+EXT = xlsx
 
 RESOURCE_NAMES := $(shell $(PYTHON) main.py resources)
 OUTPUT_FILES := $(addsuffix .csv,$(addprefix data/,$(RESOURCE_NAMES)))
 
 all: extract validate transform build check
 
-%: requirements
-	@true
-
-requirements:
-	@echo Checking python packages...
-	@python scripts/requirements.py
-
 extract:
-	$(foreach resource_name, $(RESOURCE_NAMES),python main.py extract $(resource_name) &&) true
+	Rscript scripts/extract.R
 
 validate:
 	frictionless validate datapackage.yaml
