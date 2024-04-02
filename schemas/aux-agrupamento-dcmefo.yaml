@@ -13,7 +13,7 @@
 
   - name: ELEM_ITEM_DESC
     target: elem_item_desc
-    type: integer
+    type: string
     constraints:
       required: true
 
