@@ -1,4 +1,4 @@
-.PHONY: requirements all extract validate transform build check publish clean
+.PHONY: all extract validate transform build check publish clean
 
 include config.mk
 

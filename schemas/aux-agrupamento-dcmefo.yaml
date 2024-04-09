@@ -14,11 +14,6 @@
   - name: ELEM_ITEM_DESC
     target: elem_item_desc
     type: string
-    missingValues:
-      - ""
-      - "-"
-    constraints:
-      required: true
 
   - name: AGRUPAMENTO
     target: agrupamento_dcmefo

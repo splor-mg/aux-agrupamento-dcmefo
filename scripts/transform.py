@@ -1,7 +1,7 @@
 from frictionless import Package
 import logging
 import petl as etl
-from dpm.utils import as_identifier
+# from dpm.utils import as_identifier
 from scripts.pipelines import transform_pipeline
 
 logger = logging.getLogger(__name__)
