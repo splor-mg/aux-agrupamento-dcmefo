@@ -1,0 +1,45 @@
+{
+  "name": "aux-agrupamento-dcmefo",
+  "profile": "tabular-data-package",
+  "resources": [
+    {
+      "name": "aux-agrupamento-dcmefo",
+      "type": "table",
+      "profile": "tabular-data-resource",
+      "path": "data/aux-agrupamento-dcmefo.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "hash": "sha256:b4b29b9ccc9c8f915b70d4899f301dc87f9a89ea82a383186d3aa0f78730e85a",
+      "bytes": 512244,
+      "fields": 4,
+      "rows": 6741,
+      "schema": {
+        "fields": [
+          {
+            "name": "uo_cod",
+            "type": "integer",
+            "source": "UO_COD"
+          },
+          {
+            "name": "elem_item_cod",
+            "type": "integer",
+            "source": "ELEM_ITEM_COD"
+          },
+          {
+            "name": "elem_item_desc",
+            "type": "string",
+            "source": "ELEM_ITEM_DESC"
+          },
+          {
+            "name": "agrupamento_dcmefo",
+            "type": "string",
+            "source": "AGRUPAMENTO"
+          }
+        ]
+      }
+    }
+  ],
+  "updated_at": "2024-04-12T17:06:33"
+}
