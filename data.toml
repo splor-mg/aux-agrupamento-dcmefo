@@ -1,0 +1,10 @@
+title = "checks-loa-ppag"
+
+[packages]
+
+[packages.siafi_2024]
+
+path = "https://raw.githubusercontent.com/splor-mg/armazem-siafi-dados-2024/main/datapackage.json"
+resources = ["execucao", "restos_pagar"]
+token = "GITHUB_PAT"
+
