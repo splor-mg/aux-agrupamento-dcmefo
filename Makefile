@@ -27,6 +27,7 @@ datapackage.json: $(OUTPUT_FILES) scripts/build.py datapackage.yaml
 
 check:
 	frictionless validate datapackage.json
+	dpm install
 	Rscript checks/rstats/testthat.R
 
 publish:
