@@ -2,9 +2,8 @@ suppressPackageStartupMessages(library(validate))
 library(data.table)
 library(openxlsx)
 
-
-exec_siafi <- fread('datapackages/siafi_2024/data/execucao.csv.gz')
-aux_agrupamento <- fread('data/aux-agrupamento-dcmefo.csv')
+exec_siafi <- fread(here::here('datapackages/siafi_2024/data/execucao.csv.gz'))
+aux_agrupamento <- fread(here::here('data/aux-agrupamento-dcmefo.csv'))
 
 setnames(aux_agrupamento, "elem_item_cod", "elemento_item_cod")
 
