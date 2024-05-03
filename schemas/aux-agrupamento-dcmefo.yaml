@@ -6,7 +6,7 @@
       required: true
 
   - name: ELEM_ITEM_COD
-    target: elem_item_cod
+    target: elemento_item_cod
     type: integer
     constraints:
       required: true
