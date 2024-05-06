@@ -11,8 +11,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:0da98fc324e3ec95f917c369c59829115775413ace94d349d2c02758dcadac2e",
-      "bytes": 504429,
+      "hash": "sha256:50ec88d3a5fb0cc67815323c6311a57003e2b3c69943da807e33c96596f392cb",
+      "bytes": 504433,
       "fields": 4,
       "rows": 6741,
       "schema": {
@@ -23,7 +23,7 @@
             "source": "UO_COD"
           },
           {
-            "name": "elem_item_cod",
+            "name": "elemento_item_cod",
             "type": "integer",
             "source": "ELEM_ITEM_COD"
           },
@@ -41,5 +41,5 @@
       }
     }
   ],
-  "updated_at": "2024-04-24T17:25:18"
+  "updated_at": "2024-05-06T13:06:43"
 }
