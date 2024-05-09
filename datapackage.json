@@ -28,7 +28,7 @@
             "source": "ELEM_ITEM_COD"
           },
           {
-            "name": "elem_item_desc",
+            "name": "elemento_item_desc",
             "type": "string",
             "source": "ELEM_ITEM_DESC"
           },
@@ -41,5 +41,5 @@
       }
     }
   ],
-  "updated_at": "2024-05-09T14:49:32"
+  "updated_at": "2024-05-08T07:50:38"
 }

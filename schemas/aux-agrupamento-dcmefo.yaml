@@ -12,7 +12,7 @@
       required: true
 
   - name: ELEM_ITEM_DESC
-    target: elem_item_desc
+    target: elemento_item_desc
     type: string
 
   - name: AGRUPAMENTO
