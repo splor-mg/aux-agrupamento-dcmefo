@@ -11,8 +11,8 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:40847aa2b7bc733ed1bc3016d7fa3750c5a73e6d0d4e69aa612c71bd4e944420",
-      "bytes": 512252,
+      "hash": "sha256:50ec88d3a5fb0cc67815323c6311a57003e2b3c69943da807e33c96596f392cb",
+      "bytes": 504433,
       "fields": 4,
       "rows": 6741,
       "schema": {

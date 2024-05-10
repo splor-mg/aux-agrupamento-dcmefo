@@ -1,6 +1,7 @@
 .PHONY: all extract validate transform build check publish clean
 
 include config.mk
+include .env
 
 EXT = xlsx
 
@@ -27,6 +28,8 @@ datapackage.json: $(OUTPUT_FILES) scripts/build.py datapackage.yaml
 
 check:
 	frictionless validate datapackage.json
+	dpm install
+	Rscript checks/rstats/testthat.R
 
 publish:
 	git add -Af datapackage.json data/*.csv data-raw/*.$(EXT)
