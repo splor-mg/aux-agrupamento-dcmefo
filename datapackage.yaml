@@ -12,5 +12,4 @@ resources:
     format: xlsx
     encoding: windows-1252
     dialect: dialect.yaml
-    schema: schemas/aux-agrupamento-dcmefo.yaml
- 
+    schema: schemas/raw.schema.yaml

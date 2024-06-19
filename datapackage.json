@@ -11,35 +11,43 @@
       "format": "csv",
       "mediatype": "text/csv",
       "encoding": "utf-8",
-      "hash": "sha256:50ec88d3a5fb0cc67815323c6311a57003e2b3c69943da807e33c96596f392cb",
-      "bytes": 504433,
+      "hash": "sha256:0e15fc8573ec22962c6cf43f88a3001f94e732423e9c83e78df9eb461a41a062",
+      "bytes": 295918,
       "fields": 4,
-      "rows": 6741,
+      "rows": 6742,
       "schema": {
         "fields": [
           {
+            "name": "chave_agrupamento",
+            "type": "string"
+          },
+          {
             "name": "uo_cod",
             "type": "integer",
-            "source": "UO_COD"
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "elemento_item_cod",
             "type": "integer",
-            "source": "ELEM_ITEM_COD"
-          },
-          {
-            "name": "elemento_item_desc",
-            "type": "string",
-            "source": "ELEM_ITEM_DESC"
+            "constraints": {
+              "required": true
+            }
           },
           {
             "name": "agrupamento_dcmefo",
             "type": "string",
-            "source": "AGRUPAMENTO"
+            "constraints": {
+              "required": true
+            }
           }
+        ],
+        "primaryKey": [
+          "chave_agrupamento"
         ]
       }
     }
   ],
-  "updated_at": "2024-05-08T07:50:38"
+  "updated_at": "2024-06-19T11:53:42"
 }

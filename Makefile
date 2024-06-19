@@ -18,12 +18,12 @@ validate:
 
 transform: $(OUTPUT_FILES)
 
-$(OUTPUT_FILES): data/%.csv: data-raw/%.$(EXT) schemas/%.yaml scripts/transform.py datapackage.yaml
+$(OUTPUT_FILES): data/%.csv: data-raw/%.$(EXT) schemas/raw.schema.yaml scripts/transform.py datapackage.yaml
 	$(PYTHON) main.py transform $*
 
 build: transform datapackage.json
 
-datapackage.json: $(OUTPUT_FILES) scripts/build.py datapackage.yaml
+datapackage.json: $(OUTPUT_FILES) scripts/build.py datapackage.yaml schemas/schema.yaml
 	$(PYTHON) main.py build
 
 check:

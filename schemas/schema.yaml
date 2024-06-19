@@ -1,0 +1,21 @@
+﻿fields:
+  - name: chave_agrupamento
+    type: string
+
+  - name: uo_cod
+    type: integer
+    constraints:
+      required: true
+
+  - name: elemento_item_cod
+    type: integer
+    constraints:
+      required: true
+
+  - name: agrupamento_dcmefo
+    type: string
+    constraints:
+      required: true
+
+primaryKey: 
+  - chave_agrupamento

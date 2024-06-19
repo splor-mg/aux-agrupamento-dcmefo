@@ -17,4 +17,6 @@ def transform_resource(resource_name: str, source_descriptor: str = 'datapackage
         target = field.custom.get('target')
         target = target if target else as_identifier(field.name)
         table = etl.rename(table, field.name, target)
+    table = table.addfield("chave_agrupamento", lambda row: f"{row.uo_cod}|{row.elemento_item_cod}", index=0)
+    table = table.cutout("elemento_item_desc")
     etl.tocsv(table, f'data/{resource.name}.csv', encoding='utf-8')
