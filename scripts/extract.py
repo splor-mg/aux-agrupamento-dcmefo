@@ -1,7 +1,7 @@
 import logging
-import scripts.config
+import subprocess
 
 logger = logging.getLogger(__name__)
 
-def extract_resource(resource_name: str, descriptor: str = 'datapackage.yaml'):
-    logger.info(f'Extract not implemented for resource {resource_name}...')
+def extract_resource(resource_name: str = None, descriptor: str = 'datapackage.yaml'):
+    subprocess.run(['Rscript', 'scripts/extract.R'], check=True)

@@ -11,5 +11,6 @@ Imports:
     readxl,
     purrr,
     here,
-    writexl
+    writexl,
+    cyphr
 Encoding: UTF-8

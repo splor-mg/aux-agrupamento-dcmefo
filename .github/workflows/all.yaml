@@ -3,7 +3,7 @@ name: Updated
 on:
   workflow_dispatch:
   schedule:
-    - cron:  '13 8 * * 1-5'
+    - cron:  '0 8 * * 1-5'
 
 jobs:
   all:
@@ -28,6 +28,8 @@ jobs:
         cache-from: type=registry,ref=fjuniorr/${{ github.event.repository.name }}:latest
         cache-to: type=inline
     - name: ETL pipeline
+      env: 
+        MS365_KEY: ${{ secrets.MS365_KEY }}
       run: docker run --rm --mount type=bind,source=${PWD},target=/project fjuniorr/${{ github.event.repository.name }} make all
     - name: Publish data package
       run: |-

@@ -11,7 +11,7 @@ OUTPUT_FILES := $(addsuffix .csv,$(addprefix data/,$(RESOURCE_NAMES)))
 all: extract validate transform build check
 
 extract:
-	Rscript scripts/extract.R
+	$(PYTHON) main.py extract
 
 validate:
 	frictionless validate datapackage.yaml
