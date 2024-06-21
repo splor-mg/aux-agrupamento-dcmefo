@@ -12,5 +12,6 @@ Imports:
     purrr,
     here,
     writexl,
-    cyphr
+    cyphr,
+    openxlsx
 Encoding: UTF-8
