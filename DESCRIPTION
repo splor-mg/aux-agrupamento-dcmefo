@@ -13,5 +13,6 @@ Imports:
     here,
     writexl,
     cyphr,
-    openxlsx
+    openxlsx,
+    R.utils
 Encoding: UTF-8
