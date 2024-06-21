@@ -14,5 +14,6 @@ Imports:
     writexl,
     cyphr,
     openxlsx,
-    R.utils
+    R.utils,
+    logger
 Encoding: UTF-8
