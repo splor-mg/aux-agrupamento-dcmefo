@@ -1,7 +1,7 @@
 .PHONY: all extract validate transform build check publish clean
 
 include config.mk
-include .env
+#include .env
 
 EXT = xlsx
 
