@@ -30,6 +30,7 @@ jobs:
     - name: ETL pipeline
       env: 
         MS365_KEY: ${{ secrets.MS365_KEY }}
+        GITHUB_PAT: ${{ secrets.PAT_GITHUB}}
       run: docker run --rm --mount type=bind,source=${PWD},target=/project fjuniorr/${{ github.event.repository.name }} make all
     - name: Publish data package
       run: |-
