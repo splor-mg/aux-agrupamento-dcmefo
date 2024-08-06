@@ -6,5 +6,5 @@ title = "checks-loa-ppag"
 
 path = "https://raw.githubusercontent.com/splor-mg/armazem-siafi-dados-2024/main/datapackage.json"
 resources = ["execucao", "restos_pagar"]
-token = "GITHUB_PAT"
+token = "GH_PAT"
 
