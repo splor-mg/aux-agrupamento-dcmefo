@@ -494,7 +494,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1231|3033,1231,3033,Despesas com aeronaves
 1231|3041,1231,3041,Demais despesas de custeio
 1231|3099,1231,3099,Material de consumo
-1231|3201,1231,3201,Demais despesas de custeio
+1231|3201,1231,3201,Material de distribuição gratuita
 1231|3301,1231,3301,Diárias e viagens
 1231|3302,1231,3302,Diárias e viagens
 1231|3304,1231,3304,Diárias e viagens
@@ -537,9 +537,9 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1231|3955,1231,3955,Demais despesas de custeio
 1231|3956,1231,3956,Demais despesas de custeio
 1231|3963,1231,3963,Demais despesas de custeio
-1231|3964,1231,3964,Demais despesas de custeio
+1231|3964,1231,3964,Serviços de Mapeamento e Georreferenciamento
 1231|3966,1231,3966,Utilidade Pública
-1231|3973,1231,3973,Demais despesas de custeio
+1231|3973,1231,3973,Serviços de engenharia
 1231|3980,1231,3980,INSS e Obrigações patronais
 1231|3987,1231,3987,Frota
 1231|3989,1231,3989,Despesas com aeronaves
@@ -1031,7 +1031,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1271|4004,1271,4004,Serviços de TIC
 1271|4005,1271,4005,Serviços de TIC
 1271|4006,1271,4006,Aquisições de itens de TIC
-1271|4101,1271,4101,Demais despesas de custeio
+1271|4101,1271,4101,Instrumentos de Saída
 1271|4201,1271,4201,Instrumentos de Saída
 1271|4301,1271,4301,SUBVENÇÕES SOCIAIS
 1271|4501,1271,4501,Subvenções econômicas
@@ -1210,7 +1210,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1371|3903,1371,3903,Alimentação
 1371|3904,1371,3904,CONFECÇÃO EM GERAL
 1371|3906,1371,3906,TRANSPORTE E ACONDICIONAMENTO DE MATERIAIS E EQUIPAMENTOS
-1371|3910,1371,3910,PRÊMIOS DE SEGUROS
+1371|3910,1371,3910,Seguros
 1371|3912,1371,3912,Utilidade Pública
 1371|3913,1371,3913,Utilidade Pública
 1371|3915,1371,3915,Utilidade Pública
@@ -3427,7 +3427,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2091|3902,2091,3902,Outros
 2091|3904,2091,3904,CONFECCAO EM GERAL
 2091|3908,2091,3908,PUBLICAÇÃO E DIVULGAÇÃO
-2091|3910,2091,3910,PREMIOS DE SEGUROS
+2091|3910,2091,3910,Seguros
 2091|3911,2091,3911,"ASSINATURAS DE JORNAIS, REVISTAS E PERIÓDICOS"
 2091|3912,2091,3912,Utilidade Pública
 2091|3913,2091,3913,Utilidade Pública
@@ -3525,7 +3525,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2101|3040,2101,3040,Material de consumo
 2101|3041,2101,3041,MATERIAL DE PROTECAO E SEGURANCA
 2101|3099,2101,3099,Material de consumo
-2101|3201,2101,3201,MATERIAL DE DISTRIBUIÇÃO GRATUITA
+2101|3201,2101,3201,Material de distribuição gratuita
 2101|3301,2101,3301,Diárias e viagens
 2101|3302,2101,3302,Diárias e viagens
 2101|3304,2101,3304,Diárias e viagens
@@ -3551,7 +3551,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2101|3904,2101,3904,CONFECCAO EM GERAL
 2101|3908,2101,3908,PUBLICAÇÃO E DIVULGAÇÃO
 2101|3909,2101,3909,Publicidade
-2101|3910,2101,3910,PRÊMIOS DE SEGUROS
+2101|3910,2101,3910,Seguros
 2101|3911,2101,3911,"ASSINATURAS DE JORNAIS, REVISTAS E PERIÓDICOS"
 2101|3912,2101,3912,Utilidade Pública
 2101|3913,2101,3913,Utilidade Pública
@@ -4024,7 +4024,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2171|3040,2171,3040,Material de consumo
 2171|3041,2171,3041,Demais despesas de custeio
 2171|3099,2171,3099,Material de consumo
-2171|3104,2171,3104,Demais despesas de custeio
+2171|3104,2171,3104,Premiações
 2171|3301,2171,3301,Diárias e viagens
 2171|3302,2171,3302,Diárias e viagens
 2171|3304,2171,3304,Diárias e viagens
@@ -4070,7 +4070,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2171|3961,2171,3961,Demais terceirizados
 2171|3970,2171,3970,Serviços de TIC
 2171|3987,2171,3987,Frota
-2171|3991,2171,3991,Demais despesas de custeio
+2171|3991,2171,3991,Credenciados
 2171|3992,2171,3992,Termos de parceria e contratos de gestão
 2171|3999,2171,3999,Demais despesas de custeio
 2171|4002,2171,4002,Serviços de TIC
@@ -4083,7 +4083,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2171|4706,2171,4706,Obrigações tributárias
 2171|4707,2171,4707,Obrigações tributárias
 2171|4799,2171,4799,Obrigações tributárias
-2171|4801,2171,4801,Demais despesas de custeio
+2171|4801,2171,4801,Auxílios diversos (transp alim funeral e etc)
 2171|4906,2171,4906,Estagiários
 2171|5110,2171,5110,Obras e projetos de obras
 2171|5204,2171,5204,Demais despesas de capital
@@ -4106,7 +4106,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2171|9203,2171,9203,DEAs
 2171|9306,2171,9306,Restituição de convênios
 2171|9309,2171,9309,Demais despesas de custeio
-2171|9399,2171,9399,Demais despesas de custeio
+2171|9399,2171,9399,Indenizações
 2181|810,2181,810,Auxílios diversos (transp alim funeral e etc)
 2181|1325,2181,1325,INSS e Obrigações patronais
 2181|1401,2181,1401,Diárias e viagens
@@ -4147,7 +4147,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2181|3901,2181,3901,Auxílios diversos (transp alim funeral e etc)
 2181|3904,2181,3904,Demais despesas de custeio
 2181|3908,2181,3908,Demais despesas de custeio
-2181|3910,2181,3910,Demais despesas de custeio
 2181|3911,2181,3911,Demais despesas de custeio
 2181|3912,2181,3912,Utilidade Pública
 2181|3913,2181,3913,Utilidade Pública
@@ -4224,7 +4223,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2201|3026,2201,3026,Frota
 2201|3027,2201,3027,Material de consumo
 2201|3030,2201,3030,Material de consumo
-2201|3104,2201,3104,Demais despesas de custeio
 2201|3302,2201,3302,Diárias e viagens
 2201|3304,2201,3304,Diárias e viagens
 2201|3305,2201,3305,Diárias e viagens
@@ -4436,7 +4434,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2241|3906,2241,3906,TRANSPORTE E ACONDICIONAMENTO DE MATERIAIS E EQUIPAMENTOS
 2241|3908,2241,3908,PUBLICAÇÃO E DIVULGAÇÃO
 2241|3909,2241,3909,Publicidade
-2241|3910,2241,3910,PRÊMIOS DE SEGUROS
+2241|3910,2241,3910,Seguros
 2241|3911,2241,3911,"ASSINATURAS DE JORNAIS, REVISTAS E PERIÓDICOS"
 2241|3912,2241,3912,Utilidade Pública
 2241|3915,2241,3915,Utilidade Pública
@@ -5989,7 +5987,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2441|3705,2441,3705,Terceirizados - MGS
 2441|3904,2441,3904,CONFECÇÃO EM GERAL
 2441|3909,2441,3909,Publicidade
-2441|3910,2441,3910,PREMIOS DE SEGUROS
+2441|3910,2441,3910,Seguros
 2441|3917,2441,3917,Frota
 2441|3918,2441,3918,Frota
 2441|3919,2441,3919,Gestão de equipamentos
@@ -6757,3 +6755,22 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2301|5226,2301,5226,Demais aquisições
 2301|5227,2301,5227,Demais aquisições
 2371|3939,2371,3939,Demais despesas de custeio
+4381|3919,4381,3919,Gestão de equipamentos
+4381|3305,4381,3305,Diárias e viagens
+4381|3903,4381,3903,Demais despesas de custeio
+4381|3904,4381,3904,Demais despesas de custeio
+1301|3955,1301,3955,Demais despesas de custeio
+2301|3942,2301,3942,Demais despesas de custeio
+1271|3948,1271,3948,Cursos de formação e capacitações
+1271|9326,1271,9326,Demais despesas de custeio
+2201|3104,2201,3104,Premiações
+2201|4101,2201,4101,Instrumentos de Saída
+2201|3628,2201,3628,Demais despesas de custeio
+2201|3604,2201,3604,Diárias e viagens
+2181|3910,2181,3910,Seguros
+2211|3699,2211,3699,Demais despesas de custeio
+2171|3942,2171,3942,Gestão de equipamentos
+None|None,,,
+None|None,,,
+None|None,,,
+None|None,,,
