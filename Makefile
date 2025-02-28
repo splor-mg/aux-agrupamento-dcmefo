@@ -1,4 +1,4 @@
-.PHONY: all extract validate transform build check publish clean
+.PHONY: all extract validate transform build check publish clean clear
 
 include config.mk
 #include .env
@@ -8,13 +8,13 @@ EXT = xlsx
 RESOURCE_NAMES := $(shell $(PYTHON) main.py resources)
 OUTPUT_FILES := $(addsuffix .csv,$(addprefix data/,$(RESOURCE_NAMES)))
 
-all: extract validate transform build check
+all: clear extract validate transform build check
 
 extract:
 	$(PYTHON) main.py extract
 
 validate:
-	frictionless validate datapackage.yaml
+	$(PYTHON) main.py validate datapackage.yaml
 
 transform: $(OUTPUT_FILES)
 
@@ -38,3 +38,6 @@ publish:
 
 clean:
 	rm -f datapackage.json data/*.csv
+
+clear:
+	:> logfile.log
