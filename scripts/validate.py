@@ -23,6 +23,3 @@ def validate_package(source_descriptor):
         for row in unique_errors:
             logger.warning(f"{row.resource}: Coluna '{row.fieldName}' | Erro '{row.title}' | Descrição '{row.description}' | Regra '{row.note}'")
     return errors
-
-""" errors = validate_package()
-print(petl.look(errors)) """
