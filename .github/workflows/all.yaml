@@ -2,8 +2,8 @@ name: Updated
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron:  '0 8 * * 1-5'
+  #schedule:
+  #  - cron:  '0 8 * * 1-5'
 
 jobs:
   all:
@@ -28,7 +28,7 @@ jobs:
         cache-from: type=registry,ref=splormg/${{ github.event.repository.name }}:latest
         cache-to: type=inline
     - name: ETL pipeline
-      env: 
+      env:
         MS365_KEY: ${{ secrets.MS365_KEY }}
         GITHUB_PAT: ${{ secrets.PAT_GITHUB }}
       run: docker run -e MS365_KEY=$MS365_KEY -e GITHUB_PAT=$GITHUB_PAT --rm --mount type=bind,source=${PWD},target=/project splormg/${{ github.event.repository.name }} make all
