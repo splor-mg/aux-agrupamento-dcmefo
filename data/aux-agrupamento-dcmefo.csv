@@ -411,7 +411,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1221|3610,1221,3610,Demais despesas de custeio
 1221|3612,1221,3612,Demais despesas de custeio
 1221|3614,1221,3614,Demais despesas de custeio
-1221|3702,1221,3702,Demais terceirizados
+1221|3702,1221,3702,Terceirizados - Demais empresas
 1221|3703,1221,3703,Terceirizados - MGS
 1221|3704,1221,3704,Terceirizados - MGS
 1221|3705,1221,3705,Terceirizados - MGS
@@ -985,7 +985,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1271|3612,1271,3612,Demais despesas de custeio
 1271|3625,1271,3625,Demais despesas de custeio
 1271|3699,1271,3699,Demais despesas de custeio
-1271|3702,1271,3702,Demais terceirizados
+1271|3702,1271,3702,Terceirizados - Demais empresas
 1271|3703,1271,3703,Terceirizados - MGS
 1271|3704,1271,3704,Terceirizados - MGS
 1271|3705,1271,3705,Terceirizados - MGS
@@ -1058,7 +1058,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1271|9202,1271,9202,DEAs
 1271|9306,1271,9306,Restituição de convênios
 1271|9310,1271,9310,Demais despesas de custeio
-1271|9399,1271,9399,Demais despesas de custeio
+1271|9399,1271,9399,Indenizações e restituições
 1301|899,1301,899,Auxílios diversos (transp alim funeral e etc)
 1301|1314,1301,1314,INSS e Obrigações patronais
 1301|1317,1301,1317,INSS e Obrigações patronais
@@ -1241,7 +1241,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1371|3952,1371,3952,Estagiários
 1371|3953,1371,3953,Cursos de formação e capacitações
 1371|3955,1371,3955,EVENTOS DE COMUNICAÇÃO INSTITUCIONAL
-1371|3956,1371,3956,SERVICOS DE PESQUISAS
+1371|3956,1371,3956,Pesquisas
 1371|3960,1371,3960,SERVICOS DE ATENDIMENTO AO CIDADAO
 1371|3961,1371,3961,Demais terceirizados
 1371|3969,1371,3969,Utilidade Pública
@@ -2326,7 +2326,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1541|3631,1541,3631,Cursos de formação e capacitações
 1541|3699,1541,3699,Demais despesas de custeio
 1541|3701,1541,3701,Demais terceirizados
-1541|3702,1541,3702,Demais terceirizados
+1541|3702,1541,3702,Terceirizados - Demais empresas
 1541|3703,1541,3703,Terceirizados - MGS
 1541|3704,1541,3704,Terceirizados - MGS
 1541|3705,1541,3705,Terceirizados - MGS
@@ -2762,7 +2762,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1691|3610,1691,3610,Demais despesas de custeio
 1691|3611,1691,3611,Aluguéis e condomínios
 1691|3612,1691,3612,Demais despesas de custeio
-1691|3702,1691,3702,Demais terceirizados
+1691|3702,1691,3702,Terceirizados - Demais empresas
 1691|3703,1691,3703,Terceirizados - MGS
 1691|3704,1691,3704,Terceirizados - MGS
 1691|3901,1691,3901,Auxílios diversos (transp alim funeral e etc)
@@ -2861,12 +2861,12 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1711|3924,1711,3924,Cursos de formação e capacitações
 1711|3926,1711,3926,Encargos e Multas
 1711|3931,1711,3931,Demais despesas de custeio
-1711|3939,1711,3939,Demais despesas de custeio
+1711|3939,1711,3939,Publicidade
 1711|3943,1711,3943,Frota
 1711|3948,1711,3948,Cursos de formação e capacitações
 1711|3950,1711,3950,Diárias e viagens
 1711|3952,1711,3952,Estagiários
-1711|3956,1711,3956,Demais despesas de custeio
+1711|3956,1711,3956,Pesquisas
 1711|3968,1711,3968,Demais despesas de custeio
 1711|3987,1711,3987,Frota
 1711|3999,1711,3999,Demais despesas de custeio
@@ -3207,7 +3207,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2061|3623,2061,3623,Encargos e Multas
 2061|3631,2061,3631,Cursos de formação e capacitações
 2061|3701,2061,3701,Demais terceirizados
-2061|3702,2061,3702,Demais terceirizados
+2061|3702,2061,3702,Terceirizados - Demais empresas
 2061|3703,2061,3703,Terceirizados - MGS
 2061|3704,2061,3704,Terceirizados - MGS
 2061|3705,2061,3705,Terceirizados - MGS
@@ -4040,7 +4040,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2171|3631,2171,3631,Cursos de formação e capacitações
 2171|3699,2171,3699,Demais despesas de custeio
 2171|3701,2171,3701,Demais terceirizados
-2171|3702,2171,3702,Demais terceirizados
+2171|3702,2171,3702,Terceirizados - Demais empresas
 2171|3703,2171,3703,Terceirizados - MGS
 2171|3704,2171,3704,Terceirizados - MGS
 2171|3705,2171,3705,Terceirizados - MGS
@@ -4332,7 +4332,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2211|3604,2211,3604,Diárias e viagens
 2211|3610,2211,3610,Demais despesas de custeio
 2211|3612,2211,3612,Demais despesas de custeio
-2211|3702,2211,3702,Demais terceirizados
+2211|3702,2211,3702,Terceirizados - Demais empresas
 2211|3703,2211,3703,Terceirizados - MGS
 2211|3704,2211,3704,Terceirizados - MGS
 2211|3705,2211,3705,Terceirizados - MGS
@@ -4426,7 +4426,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2241|3612,2241,3612,DESPESAS MIÚDAS DE PRONTO PAGAMENTO
 2241|3625,2241,3625,CONTRATACAO PARA PRESTACAO DE SERVICO POR CREDENCIADOS
 2241|3699,2241,3699,OUTRAS DESPESAS PAGAS A PESSOAS FÍSICAS
-2241|3702,2241,3702,Demais terceirizados
+2241|3702,2241,3702,Terceirizados - Demais empresas
 2241|3703,2241,3703,Terceirizados - MGS
 2241|3704,2241,3704,Terceirizados - MGS
 2241|3705,2241,3705,Terceirizados - MGS
@@ -4510,7 +4510,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2251|3612,2251,3612,Demais despesas de custeio
 2251|3631,2251,3631,Cursos de formação e capacitações
 2251|3701,2251,3701,Demais terceirizados
-2251|3702,2251,3702,Demais terceirizados
+2251|3702,2251,3702,Terceirizados - Demais empresas
 2251|3704,2251,3704,Terceirizados - MGS
 2251|3906,2251,3906,Demais despesas de custeio
 2251|3908,2251,3908,Demais despesas de custeio
@@ -5725,7 +5725,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2371|3628,2371,3628,Demais despesas de custeio
 2371|3699,2371,3699,Demais despesas de custeio
 2371|3701,2371,3701,Demais terceirizados
-2371|3702,2371,3702,Demais terceirizados
+2371|3702,2371,3702,Terceirizados - Demais empresas
 2371|3703,2371,3703,Terceirizados - MGS
 2371|3704,2371,3704,Terceirizados - MGS
 2371|3705,2371,3705,Terceirizados - MGS
@@ -5965,7 +5965,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2431|5207,2431,5207,Aquisições de itens de TIC
 2431|5208,2431,5208,Aquisições de itens de TIC
 2431|9202,2431,9202,DEAs
-2441|1314,2441,1314,INSS e Obrigações patronais
+2441|1314,2441,1314,Demais despesas de custeio
 2441|1317,2441,1317,INSS e Obrigações patronais
 2441|1401,2441,1401,Diárias e viagens
 2441|3005,2441,3005,Material de consumo
@@ -5982,10 +5982,10 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2441|3304,2441,3304,Diárias e viagens
 2441|3502,2441,3502,Consultoria
 2441|3604,2441,3604,Diárias e viagens
-2441|3612,2441,3612,DESPESAS MIÚDAS DE PRONTO PAGAMENTO
+2441|3612,2441,3612,Demais despesas de custeio
 2441|3704,2441,3704,Terceirizados - MGS
 2441|3705,2441,3705,Terceirizados - MGS
-2441|3904,2441,3904,CONFECÇÃO EM GERAL
+2441|3904,2441,3904,Demais despesas de custeio
 2441|3909,2441,3909,Publicidade
 2441|3910,2441,3910,Seguros
 2441|3917,2441,3917,Frota
@@ -5993,7 +5993,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2441|3919,2441,3919,Gestão de equipamentos
 2441|3921,2441,3921,Gestão de equipamentos
 2441|3924,2441,3924,Cursos de formação e capacitações
-2441|3926,2441,3926,Encargos e Multas
+2441|3926,2441,3926,Demais despesas de custeio
 2441|3931,2441,3931,LOCACAO DE SERVICOS GRAFICOS
 2441|3936,2441,3936,PRODEMGE
 2441|3940,2441,3940,Serviços de TIC
@@ -6045,7 +6045,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2461|3610,2461,3610,Demais despesas de custeio
 2461|3612,2461,3612,Demais despesas de custeio
 2461|3699,2461,3699,Demais despesas de custeio
-2461|3702,2461,3702,Demais terceirizados
+2461|3702,2461,3702,Terceirizados - Demais empresas
 2461|3703,2461,3703,Terceirizados - MGS
 2461|3704,2461,3704,Terceirizados - MGS
 2461|3705,2461,3705,Terceirizados - MGS
@@ -6421,7 +6421,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 4291|3623,4291,3623,Encargos e Multas
 4291|3631,4291,3631,Outros
 4291|3699,4291,3699,Demais despesas de custeio
-4291|3702,4291,3702,Demais terceirizados
+4291|3702,4291,3702,Terceirizados - Demais empresas
 4291|3703,4291,3703,Terceirizados - MGS
 4291|3704,4291,3704,Terceirizados - MGS
 4291|3705,4291,3705,Terceirizados - MGS
@@ -6721,7 +6721,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 4711|3304,4711,3304,Diárias e viagens
 4711|3502,4711,3502,Demais despesas de custeio
 4711|3612,4711,3612,Demais despesas de custeio
-4711|3702,4711,3702,Demais terceirizados
+4711|3702,4711,3702,Terceirizados - Demais empresas
 4711|3704,4711,3704,Terceirizados - MGS
 4711|3705,4711,3705,Terceirizados - MGS
 4711|3915,4711,3915,Utilidade Pública
@@ -6762,7 +6762,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1301|3955,1301,3955,Demais despesas de custeio
 2301|3942,2301,3942,Demais despesas de custeio
 1271|3948,1271,3948,Cursos de formação e capacitações
-1271|9326,1271,9326,Demais despesas de custeio
+1271|9326,1271,9326,Indenizações e restituições
 2201|3104,2201,3104,Premiações
 2201|4101,2201,4101,Instrumentos de Saída
 2201|3628,2201,3628,Demais despesas de custeio
@@ -6770,7 +6770,19 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2181|3910,2181,3910,Seguros
 2211|3699,2211,3699,Demais despesas de custeio
 2171|3942,2171,3942,Gestão de equipamentos
-None|None,,,
-None|None,,,
-None|None,,,
-None|None,,,
+2431|3301,2431,3301,Diárias e viagens
+2431|3016,2431,3016,Material de consumo
+2431|3934,2431,3934,Demais despesas de custeio
+2441|3955,2441,3955,Demais despesas de custeio
+2441|9399,2441,9399,Indenizações
+2441|5210,2441,5210,Demais despesas de capital
+1721|3922,1721,3922,Reparo de imóveis
+1721|3022,1721,3022,Material de consumo
+1721|3941,1721,3941,Demais despesas de custeio
+1721|3031,1721,3031,Material de consumo
+1721|3904,1721,3904,Demais despesas de custeio
+1711|3015,1711,3015,Material de consumo
+1711|4006,1711,4006,Aquisições de itens de TIC
+1711|5230,1711,5230,Demais despesas de capital
+2421|3702,2421,3702,Terceirizados - Demais empresas
+1271|3920,1271,3920,Aluguéis e condomínios
