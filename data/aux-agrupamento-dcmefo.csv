@@ -285,6 +285,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1191|3040,1191,3040,Material de consumo
 1191|3041,1191,3041,Demais despesas de custeio
 1191|3099,1191,3099,Material de consumo
+1191|3105,1191,3105,Nota Fiscal Mineira
 1191|3301,1191,3301,Diárias e viagens
 1191|3302,1191,3302,Diárias e viagens
 1191|3303,1191,3303,Diárias e viagens
@@ -2149,7 +2150,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1511|3911,1511,3911,Demais despesas de custeio
 1511|3912,1511,3912,Utilidade Pública
 1511|3913,1511,3913,Utilidade Pública
-1511|3915,1511,3915,Utilidade Pública
+1511|3915,1511,3915,Correios
 1511|3917,1511,3917,Frota
 1511|3918,1511,3918,Frota
 1511|3919,1511,3919,Gestão de equipamentos
@@ -2167,7 +2168,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1511|3937,1511,3937,Aluguéis e condomínios
 1511|3939,1511,3939,Demais despesas de custeio
 1511|3940,1511,3940,Serviços de TIC
-1511|3942,1511,3942,Demais despesas de custeio
+1511|3942,1511,3942,VALID
 1511|3943,1511,3943,Frota
 1511|3948,1511,3948,Cursos de formação e capacitações
 1511|3955,1511,3955,Demais despesas de custeio
@@ -6786,3 +6787,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1711|5230,1711,5230,Demais despesas de capital
 2421|3702,2421,3702,Terceirizados - Demais empresas
 1271|3920,1271,3920,Aluguéis e condomínios
+1541|3913,1541,3913,Utilidade Pública
+1511|3701,1511,3701,Terceirizados - Demais empresas
+1511|4706,1511,4706,Obrigações tributárias
+1511|5113,1511,5113,Obras e projetos de obras
