@@ -76,7 +76,11 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1071|3955,1071,3955,Demais despesas de custeio
 1071|3959,1071,3959,Demais despesas de custeio
 1071|3961,1071,3961,Terceirizados - Demais empresas
-1071|3966,1071,3966,Utilidade Pública
+1071|3939,1071,3939,Demais despesas de custeio
+1071|3952,1071,3952,Estagiários
+1071|3946,1071,3946,Termos de parceria e contratos de gestão
+1071|5201,1071,5201,Despesas com aeronaves
+1071|3966,1071,3966,Ajuda Humanitária
 1071|3969,1071,3969,Utilidade Pública
 1071|3970,1071,3970,Serviços de TIC
 1071|3971,1071,3971,Serviços de vigilância
@@ -3131,6 +3135,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2041|3610,2041,3610,Demais despesas de custeio
 2041|3612,2041,3612,Demais despesas de custeio
 2041|3704,2041,3704,Terceirizados - MGS
+2041|3705,2041,3705,Terceirizados - MGS
 2041|3909,2041,3909,Demais despesas de custeio
 2041|3911,2041,3911,Demais despesas de custeio
 2041|3912,2041,3912,Utilidade Pública
@@ -3148,6 +3153,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2041|3940,2041,3940,Serviços de TIC
 2041|3941,2041,3941,Demais despesas de custeio
 2041|3943,2041,3943,Frota
+2041|3952,2041,3952,Estagiários
 2041|3961,2041,3961,Demais terceirizados
 2041|3964,2041,3964,Demais despesas de custeio
 2041|3968,2041,3968,Demais despesas de custeio
@@ -3156,6 +3162,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2041|4002,2041,4002,Serviços de TIC
 2041|4003,2041,4003,PRODEMGE
 2041|4004,2041,4004,Serviços de TIC
+2041|4006,2041,4006,Aquisições de itens de TIC
 2041|4007,2041,4007,PRODEMGE
 2041|4701,2041,4701,Obrigações tributárias
 2041|4703,2041,4703,Obrigações tributárias
@@ -3669,6 +3676,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2121|3305,2121,3305,Demais despesas de custeio
 2121|3502,2121,3502,Consultoria
 2121|3601,2121,3601,Estagiários
+2121|3604,2121,3604,Diárias e viagens
 2121|3608,2121,3608,Serviços de saúde e medicamentos
 2121|3609,2121,3609,Demais despesas de custeio
 2121|3612,2121,3612,Demais despesas de custeio
@@ -3709,6 +3717,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2121|3964,2121,3964,Demais despesas de custeio
 2121|3975,2121,3975,Demais despesas de custeio
 2121|3987,2121,3987,Frota
+2121|3988,2121,3988,Demais despesas de custeio
 2121|3998,2121,3998,Serviços de saúde e medicamentos
 2121|3999,2121,3999,Demais despesas de custeio
 2121|4002,2121,4002,Serviços de TIC
@@ -3724,6 +3733,8 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2121|4799,2121,4799,Obrigações tributárias
 2121|4904,2121,4904,Auxílios diversos (transp alim funeral e etc)
 2121|4906,2121,4906,Estagiários
+2121|5103,2121,5103,Obras e projetos de obras
+2121|5107,2121,5107,Obras e projetos de obras
 2121|5204,2121,5204,Demais despesas de capital
 2121|5206,2121,5206,Aquisições de itens de TIC
 2121|5207,2121,5207,Aquisições de itens de TIC
@@ -3733,6 +3744,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2121|5212,2121,5212,Demais despesas de capital
 2121|5214,2121,5214,Demais despesas de capital
 2121|5217,2121,5217,Demais despesas de capital
+2121|5220,2121,5220,Aquisições de itens de TIC
 2121|5225,2121,5225,Demais despesas de capital
 2121|9108,2121,9108,Precatórios
 2121|9202,2121,9202,DEAs
@@ -5123,12 +5135,16 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2311|1307,2311,1307,INSS e Obrigações patronais
 2311|1401,2311,1401,Diárias e viagens
 2311|1801,2311,1801,Bolsas de estudos
-2311|2001,2311,2001,Auxílios diversos (transp alim funeral e etc)
+2311|2001,2311,2001,Bolsa de pesquisa
 2311|3001,2311,3001,Material de consumo
 2311|3002,2311,3002,Material de consumo
 2311|3003,2311,3003,Material de consumo
 2311|3004,2311,3004,Material de consumo
 2311|3005,2311,3005,Material de consumo
+2311|3031,2311,3031,Material de consumo
+2311|3616,2311,3616,Frota
+2311|3622,2311,3622,Aluguéis e condomínios
+2311|3701,2311,3701,Demais terceirizados
 2311|3006,2311,3006,Material de consumo
 2311|3007,2311,3007,Material de consumo
 2311|3008,2311,3008,Material de consumo
@@ -5517,7 +5533,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2351|1325,2351,1325,INSS e Obrigações patronais
 2351|1401,2351,1401,Diárias e viagens
 2351|1801,2351,1801,Bolsas de estudos
-2351|2001,2351,2001,Auxílios diversos (transp alim funeral e etc)
+2351|2001,2351,2001,Bolsa de pesquisa
 2351|3001,2351,3001,Material de consumo
 2351|3002,2351,3002,Material de consumo
 2351|3003,2351,3003,Material de consumo
