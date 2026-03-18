@@ -6531,6 +6531,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 4631|9109,4631,9109,Precatórios
 4631|9202,4631,9202,DEAs
 4631|9305,4631,9305,Demais despesas de custeio
+4631|8302,4631,8302,Investimento de PPP
 4691|3002,4691,3002,Material de consumo
 4691|3005,4691,3005,Material de consumo
 4691|3010,4691,3010,Serviços de saúde e medicamentos
@@ -6656,7 +6657,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1501|3301,1501,3301,Diárias e viagens
 1501|3302,1501,3302,Diárias e viagens
 1501|3304,1501,3304,Diárias e viagens
-1501|3305,1501,3305,Demais despesas de custeio
+1501|3305,1501,3305,Transporte de passageiros
 1501|3401,1501,3401,Contratos Administrativos
 1501|3403,1501,3403,INSS e Obrigações patronais
 1501|3404,1501,3404,INSS e Obrigações patronais
@@ -6698,7 +6699,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1501|3937,1501,3937,Aluguéis e condomínios
 1501|3940,1501,3940,Serviços de TIC
 1501|3941,1501,3941,Demais despesas de custeio
-1501|3942,1501,3942,Demais despesas de custeio
+1501|3942,1501,3942,Serviços gráficos
 1501|3943,1501,3943,Frota
 1501|3948,1501,3948,Cursos de formação e capacitações
 1501|3953,1501,3953,Cursos de formação e capacitações
@@ -6714,9 +6715,9 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1501|3974,1501,3974,Concurso público
 1501|3975,1501,3975,Demais despesas de custeio
 1501|3978,1501,3978,Terceirizados - Demais empresas
-1501|3981,1501,3981,Demais despesas de custeio
+1501|3981,1501,3981,Elaboração de estudos prévios
 1501|3987,1501,3987,Frota
-1501|3991,1501,3991,Demais despesas de custeio
+1501|3991,1501,3991,Credenciados
 1501|3996,1501,3996,Demais despesas de custeio
 1501|3999,1501,3999,Inventário de imóveis e demais despesas de custeio
 1501|4002,1501,4002,Serviços de TIC
@@ -7406,3 +7407,163 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 4691|4009,4691,4009,PRODEMGE - Investimento
 4701|4009,4701,4009,PRODEMGE - Investimento
 4711|4009,4711,4009,PRODEMGE - Investimento
+2481|1307,2481,1307,INSS e Obrigações patronais
+2481|1401,2481,1401,Diárias e viagens
+2481|3001,2481,3001,Material de consumo
+2481|3003,2481,3003,Material de consumo
+2481|3004,2481,3004,Material de consumo
+2481|3005,2481,3005,Material de consumo
+2481|3006,2481,3006,Material de consumo
+2481|3008,2481,3008,Material de consumo
+2481|3010,2481,3010,Serviços de saúde e medicamentos
+2481|3012,2481,3012,Serviços de saúde e medicamentos
+2481|3013,2481,3013,Material de consumo
+2481|3015,2481,3015,Material de consumo
+2481|3016,2481,3016,Material de consumo
+2481|3017,2481,3017,Material de consumo
+2481|3018,2481,3018,Material de consumo
+2481|3019,2481,3019,Reparo de imóveis
+2481|3020,2481,3020,Material de consumo
+2481|3021,2481,3021,Material de consumo
+2481|3022,2481,3022,Material de consumo
+2481|3023,2481,3023,Frota
+2481|3024,2481,3024,Material de consumo
+2481|3025,2481,3025,Material de consumo
+2481|3026,2481,3026,Frota
+2481|3027,2481,3027,Material de consumo
+2481|3029,2481,3029,Material de consumo
+2481|3030,2481,3030,Material de consumo
+2481|3040,2481,3040,Material de consumo
+2481|3041,2481,3041,Material de consumo
+2481|3099,2481,3099,Material de consumo
+2481|3101,2481,3101,Demais despesas de custeio
+2481|3104,2481,3104,Demais despesas de custeio
+2481|3301,2481,3301,Diárias e viagens
+2481|3302,2481,3302,Diárias e viagens
+2481|3304,2481,3304,Diárias e viagens
+2481|3305,2481,3305,Transporte de passageiros
+2481|3401,2481,3401,Contratos Administrativos
+2481|3403,2481,3403,INSS e Obrigações patronais
+2481|3404,2481,3404,INSS e Obrigações patronais
+2481|3502,2481,3502,Consultoria
+2481|3601,2481,3601,Estagiários
+2481|3604,2481,3604,Diárias e viagens
+2481|3610,2481,3610,Demais despesas de custeio
+2481|3611,2481,3611,Aluguéis e condomínios
+2481|3612,2481,3612,Demais despesas de custeio
+2481|3617,2481,3617,Demais despesas de custeio
+2481|3701,2481,3701,Demais terceirizados
+2481|3702,2481,3702,Terceirizados - Demais empresas
+2481|3703,2481,3703,Terceirizados - MGS
+2481|3704,2481,3704,Terceirizados - MGS
+2481|3705,2481,3705,Terceirizados - MGS
+2481|3903,2481,3903,Demais despesas de custeio
+2481|3904,2481,3904,Demais despesas de custeio
+2481|3906,2481,3906,Demais despesas de custeio
+2481|3908,2481,3908,Demais despesas de custeio
+2481|3910,2481,3910,Demais despesas de custeio
+2481|3911,2481,3911,Demais despesas de custeio
+2481|3912,2481,3912,Utilidade Pública
+2481|3913,2481,3913,Utilidade Pública
+2481|3914,2481,3914,Serviços de TIC
+2481|3915,2481,3915,Utilidade Pública
+2481|3916,2481,3916,Demais despesas de custeio
+2481|3917,2481,3917,Frota
+2481|3918,2481,3918,Frota
+2481|3919,2481,3919,Gestão de equipamentos
+2481|3920,2481,3920,Aluguéis e condomínios
+2481|3921,2481,3921,Gestão de equipamentos
+2481|3922,2481,3922,Reparo de imóveis
+2481|3924,2481,3924,Cursos de formação e capacitações
+2481|3926,2481,3926,Encargos e Multas
+2481|3927,2481,3927,Serviços de TIC
+2481|3930,2481,3930,Encargos e Multas
+2481|3931,2481,3931,Demais despesas de custeio
+2481|3936,2481,3936,PRODEMGE
+2481|3937,2481,3937,Aluguéis e condomínios
+2481|3940,2481,3940,Serviços de TIC
+2481|3941,2481,3941,Demais despesas de custeio
+2481|3942,2481,3942,Serviços gráficos
+2481|3943,2481,3943,Frota
+2481|3948,2481,3948,Cursos de formação e capacitações
+2481|3953,2481,3953,Cursos de formação e capacitações
+2481|3955,2481,3955,Demais despesas de custeio
+2481|3956,2481,3956,Demais despesas de custeio
+2481|3959,2481,3959,Demais despesas de custeio
+2481|3960,2481,3960,Atendimento ao público - MGS
+2481|3961,2481,3961,Terceirizados - Demais empresas
+2481|3964,2481,3964,Demais despesas de custeio
+2481|3969,2481,3969,Utilidade Pública
+2481|3970,2481,3970,Serviços de TIC
+2481|3972,2481,3972,Utilidade Pública
+2481|3974,2481,3974,Concurso público
+2481|3975,2481,3975,Demais despesas de custeio
+2481|3978,2481,3978,Terceirizados - Demais empresas
+2481|3981,2481,3981,Elaboração de estudos prévios
+2481|3987,2481,3987,Frota
+2481|3991,2481,3991,Credenciados
+2481|3996,2481,3996,Demais despesas de custeio
+2481|3999,2481,3999,Inventário de imóveis e demais despesas de custeio
+2481|4002,2481,4002,Serviços de TIC
+2481|4003,2481,4003,PRODEMGE
+2481|4004,2481,4004,Serviços de TIC
+2481|4005,2481,4005,Serviços de TIC
+2481|4006,2481,4006,Aquisições de itens de TIC
+2481|4007,2481,4007,PRODEMGE
+2481|4701,2481,4701,Obrigações tributárias
+2481|4703,2481,4703,Obrigações tributárias
+2481|4707,2481,4707,Obrigações tributárias
+2481|4799,2481,4799,Obrigações tributárias
+2481|4801,2481,4801,Demais despesas de custeio
+2481|4905,2481,4905,Estagiários
+2481|5101,2481,5101,Obras e projetos de obras
+2481|5103,2481,5103,Obras e projetos
+2481|5114,2481,5114,Demais despesas de capital
+2481|5204,2481,5204,Demais despesas de capital
+2481|5206,2481,5206,Aquisições de itens de TIC
+2481|5207,2481,5207,Aquisições de itens de TIC
+2481|5208,2481,5208,Aquisições de itens de TIC
+2481|5209,2481,5209,Demais despesas de capital
+2481|5210,2481,5210,Demais despesas de capital
+2481|5212,2481,5212,Demais despesas de capital
+2481|5214,2481,5214,Demais despesas de capital
+2481|5216,2481,5216,Aquisição de Veículos
+2481|5220,2481,5220,Aquisições de itens de TIC
+2481|5225,2481,5225,Demais despesas de capital
+2481|5226,2481,5226,Demais despesas de capital
+2481|5299,2481,5299,Demais despesas de capital
+2481|6101,2481,6101,Aquisição de Imóveis
+2481|9108,2481,9108,Precatórios
+2481|9117,2481,9117,Precatórios
+2481|9202,2481,9202,DEAs
+2481|9305,2481,9305,Demais despesas de custeio
+2481|9306,2481,9306,Restituição de convênios
+2481|9310,2481,9310,Demais despesas de custeio
+2481|9399,2481,9399,Demais despesas de custeio
+2481|3952,2481,3952,Estagiários
+2481|3031,2481,3031,Demais despesas de custeio
+2481|6104,2481,6104,Imóveis
+2481|4009,2481,4009,PRODEMGE - Investimento
+2481|5106,2481,5106,Obras e projetos
+2481|5201,2481,5201,Despesas com aeronaves
+2481|5213,2481,5213,Demais aquisições
+2481|1314,2481,1314,INSS e Obrigações patronais
+2481|3031,2481,3031,Material de consumo
+2481|4008,2481,4008,Aquisições de itens de TIC
+2481|5221,2481,5221,Demais aquisições
+2481|1501,2481,1501,Diárias e viagens
+2481|3002,2481,3002,Material de consumo
+2481|4009,2481,4009,PRODEMGE - Investimento
+2481|4008,2481,4008,Aquisições de itens de TIC
+2481|9601,2481,9601,Pessoal requisitado
+2481|5213,2481,5213,Demais despesas de capital
+2481|3998,2481,3998,Serviços de saúde e medicamentos
+2481|3939,2481,3939,Demais despesas de custeio
+2481|3952,2481,3952,Estagiários
+2481|3031,2481,3031,Demais despesas de custeio
+2481|3607,2481,3607,Demais despesas de custeio
+2481|5113,2481,5113,Obras e projetos de obras
+2481|5107,2481,5107,Obras e projetos
+2481|3699,2481,3699,Demais despesas de custeio
+2481|4008,2481,4008,Aquisições de itens de TIC
+2481|4009,2481,4009,PRODEMGE - Investimento
