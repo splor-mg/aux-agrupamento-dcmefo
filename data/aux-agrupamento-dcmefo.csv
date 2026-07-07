@@ -111,6 +111,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1071|5226,1071,5226,Demais despesas de capital
 1071|5227,1071,5227,Demais despesas de capital
 1071|9202,1071,9202,DEAs
+2421|5227,2421,5227,Demais despesas de capital
 1071|9301,1071,9301,Demais despesas de custeio
 1071|9305,1071,9305,Demais despesas de custeio
 1071|9306,1071,9306,Restituição de convênios
@@ -183,6 +184,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1081|3961,1081,3961,Terceirizados - Demais empresas
 1081|3962,1081,3962,Serviços de vigilância
 1081|3967,1081,3967,Demais despesas de custeio
+1221|3967,1221,3967,Demais despesas de custeio
 1081|3969,1081,3969,Utilidade Pública
 1081|3970,1081,3970,Serviços de TIC
 1081|3974,1081,3974,Concurso público
@@ -357,6 +359,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1191|3971,1191,3971,Serviços de vigilância
 1191|3974,1191,3974,Concurso público
 1191|3981,1191,3981,Demais despesas de custeio
+1221|3981,1221,3981,Demais despesas de custeio
 1191|3987,1191,3987,Frota
 1191|3995,1191,3995,Demais despesas de custeio
 1191|3996,1191,3996,Demais despesas de custeio
@@ -569,6 +572,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1231|4799,1231,4799,Obrigações tributárias
 1231|4905,1231,4905,Estagiários
 1231|5107,1231,5107,Obras e projetos
+1221|5107,1221,5107,Obras e projetos
 1231|5204,1231,5204,Demais despesas de capital
 1221|9326,1221,9326,Demais despesas de custeio
 1231|5206,1231,5206,Aquisições de itens de TIC
@@ -702,6 +706,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1221|9399,1221,9399,Demais despesas de custeio
 1251|3962,1251,3962,Serviços de vigilância
 1251|3964,1251,3964,Demais despesas de custeio
+1251|3965,1251,3965,Serviços de saúde e medicamentos
 1251|3969,1251,3969,Utilidade Pública
 1251|3970,1251,3970,Serviços de TIC
 1251|3971,1251,3971,Serviços de vigilância
@@ -731,6 +736,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1251|5101,1251,5101,Obras e projetos de obras
 1251|5103,1251,5103,Obras e projetos
 1251|5104,1251,5104,Obras e projetos de obras
+2421|5104,2421,5104,Obras e projetos de obras
 1251|5106,1251,5106,Obras e projetos
 1251|5107,1251,5107,Obras e projetos
 1251|5113,1251,5113,Obras e projetos de obras
@@ -767,6 +773,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1251|9306,1251,9306,Restituição de convênios
 1251|9310,1251,9310,Demais despesas de custeio
 1251|9326,1251,9326,Demais despesas de custeio
+1251|9324,1251,9324,Indenizações e restituições
 1251|9399,1251,9399,Demais despesas de custeio
 1261|810,1261,810,Auxílios diversos (transp alim funeral e etc)
 1261|1307,1261,1307,INSS e Obrigações patronais
@@ -1146,12 +1153,14 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1301|3981,1301,3981,Elaboração de estudos prévios
 1301|3987,1301,3987,Frota
 1301|3993,1301,3993,Demais despesas de custeio
+1221|3993,1221,3993,Demais despesas de custeio
 1301|3999,1301,3999,Demais despesas de custeio
 1301|4002,1301,4002,Serviços de TIC
 1301|4003,1301,4003,PRODEMGE
 1301|4004,1301,4004,Serviços de TIC
 1301|4006,1301,4006,Aquisições de itens de TIC
 1301|4007,1301,4007,PRODEMGE
+1221|4007,1221,4007,PRODEMGE
 1301|4201,1301,4201,Instrumentos de Saída
 1301|4301,1301,4301,SUBVENÇÕES SOCIAIS
 1301|4501,1301,4501,Subvenções Econômicas - Colchão Metrô
@@ -1163,10 +1172,10 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1301|4709,1301,4709,Obrigações tributárias
 1301|4799,1301,4799,Obrigações tributárias
 1301|5101,1301,5101,Obras e projetos de obras
-1301|5103,1301,5103,Obras e projetos
-1301|5106,1301,5106,Obras e projetos
-1301|5107,1301,5107,Obras e projetos
-1301|5112,1301,5112,Obras e projetos
+1301|5103,1301,5103,Obras e projetos de obras
+1301|5106,1301,5106,Obras e projetos de obras
+1301|5107,1301,5107,Obras e projetos de obras
+1301|5112,1301,5112,Obras e projetos de obras
 1301|5114,1301,5114,Obras e projetos de obras
 1301|5115,1301,5115,Obras e projetos de obras
 1301|5207,1301,5207,Aquisições de itens de TIC
@@ -1181,141 +1190,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1301|9310,1301,9310,Demais despesas de custeio
 1301|9314,1301,9314,Demais despesas de custeio
 1301|9399,1301,9399,Indenizações e restituições
-1371|409,1371,409,Encargos e Multas
-1371|810,1371,810,Auxílios diversos (transp alim funeral e etc)
-1371|1314,1371,1314,INSS e Obrigações patronais
-1371|1317,1371,1317,INSS e Obrigações patronais
-1371|1401,1371,1401,Diárias e viagens
-1371|1501,1371,1501,Diárias e viagens
-1371|3001,1371,3001,Material de consumo
-1371|3002,1371,3002,Material de consumo
-1371|3003,1371,3003,Material de consumo
-1371|3004,1371,3004,Material de consumo
-1371|3005,1371,3005,Material de consumo
-1371|3008,1371,3008,Material de consumo
-1371|3010,1371,3010,Serviços de saúde e medicamentos
-1371|3012,1371,3012,Serviços de saúde e medicamentos
-1371|3013,1371,3013,Material de consumo
-1371|3015,1371,3015,Material de consumo
-1371|3016,1371,3016,Material de consumo
-1371|3017,1371,3017,Material de consumo
-1371|3019,1371,3019,Reparo de imóveis
-1371|3020,1371,3020,Material de consumo
-1371|3021,1371,3021,Material de consumo
-1371|3022,1371,3022,Material de consumo
-1371|3023,1371,3023,Frota
-1371|3024,1371,3024,Material de consumo
-1371|3025,1371,3025,Material de consumo
-1371|3026,1371,3026,Frota
-1371|3027,1371,3027,Material de consumo
-1371|3030,1371,3030,Material de consumo
-1371|3032,1371,3032,Material de consumo
-1371|3033,1371,3033,Despesas com aeronaves
-1371|3034,1371,3034,Despesas com aeronaves
-1371|3041,1371,3041,Material de consumo
-1371|3099,1371,3099,Material de consumo
-1371|3101,1371,3101,"PREMIOS, DIPLOMAS, CONDECORACOES E MEDALHAS"
-1371|3201,1371,3201,Material de distribuição gratuita
-1371|3301,1371,3301,Diárias e viagens
-1371|3302,1371,3302,Diárias e viagens
-1371|3304,1371,3304,Diárias e viagens
-1371|3501,1371,3501,Consultoria
-1371|3502,1371,3502,Consultoria
-1371|3604,1371,3604,Diárias e viagens
-1371|3605,1371,3605,LOCAÇÃO DE SERVIÇOS TÉCNICOS E ESPECIALIZADOS ? PESSOA FÍSICA
-1371|3610,1371,3610,Demais despesas de custeio
-1371|3611,1371,3611,Aluguéis e condomínios
-1371|3612,1371,3612,Demais despesas de custeio
-1371|3615,1371,3615,Encargos e Multas
-1371|3616,1371,3616,Frota
-1371|3617,1371,3617,"REPAROS DE EQUIPAMENTOS, INSTALAÇÕES E MATERIAL PERMANENTE"
-1371|3699,1371,3699,OUTRAS DESPESAS PAGAS A PESSOAS FÍSICAS
-1371|3702,1371,3702,Demais terceirizados
-1371|3703,1371,3703,Terceirizados - MGS
-1371|3704,1371,3704,Terceirizados - MGS
-1371|3705,1371,3705,Terceirizados - MGS
-1371|3903,1371,3903,Demais despesas de custeio
-1371|3904,1371,3904,CONFECÇÃO EM GERAL
-1371|3906,1371,3906,TRANSPORTE E ACONDICIONAMENTO DE MATERIAIS E EQUIPAMENTOS
-1371|3910,1371,3910,Seguros
-1371|3912,1371,3912,Utilidade Pública
-1371|3913,1371,3913,Utilidade Pública
-1371|3915,1371,3915,Utilidade Pública
-1371|3917,1371,3917,Frota
-1371|3918,1371,3918,Frota
-1371|3919,1371,3919,Gestão de equipamentos
-1371|3920,1371,3920,Aluguéis e condomínios
-1371|3921,1371,3921,Gestão de equipamentos
-1371|3922,1371,3922,Reparo de imóveis
-1371|3924,1371,3924,Cursos de formação e capacitações
-1371|3925,1371,3925,Encargos e Multas
-1371|3926,1371,3926,Encargos e Multas
-1371|3927,1371,3927,Serviços de TIC
-1371|3930,1371,3930,Encargos e Multas
-1371|3931,1371,3931,Demais despesas de custeio
-1371|3934,1371,3934,Despesas com aeronaves
-1371|3935,1371,3935,Despesas com aeronaves
-1371|3936,1371,3936,PRODEMGE
-1371|3937,1371,3937,Aluguéis e condomínios
-1371|3938,1371,3938,SERVIÇOS DE IMPRESSÃO E ENCADERNAÇÃO
-1371|3939,1371,3939,Publicidade
-1371|3940,1371,3940,Serviços de TIC
-1371|3941,1371,3941,"ANUIDADES, CERTIFICADOS E REGISTROS"
-1371|3943,1371,3943,Frota
-1371|3948,1371,3948,Cursos de formação e capacitações
-1371|3949,1371,3949,Cursos de formação e capacitações
-1371|3951,1371,3951,Obras e projetos de obras
-1371|3952,1371,3952,Estagiários
-1371|3953,1371,3953,Cursos de formação e capacitações
-1371|3955,1371,3955,EVENTOS DE COMUNICAÇÃO INSTITUCIONAL
-1371|3956,1371,3956,Pesquisas
-1371|3960,1371,3960,SERVICOS DE ATENDIMENTO AO CIDADAO
-1371|3961,1371,3961,Terceirizados - Demais empresas
-1371|3969,1371,3969,Utilidade Pública
-1371|3970,1371,3970,Serviços de TIC
-1371|3971,1371,3971,Serviços de vigilância
-1371|3973,1371,3973,SERVIÇO DE ENGENHARIA PARA OPERAÇÃO DE BENS DE DOMÍNIO PÚBLICO
-1371|3978,1371,3978,Terceirizados - Demais empresas
-1371|3981,1371,3981,SERVIÇOS DE ELABORAÇÃO DE ESTUDOS PRÉVIOS
-1371|3987,1371,3987,Frota
-1371|3988,1371,3988,MULTA POR ATO INFRACIONAL
-1371|3996,1371,3996,TRANSFERENCIA ONEROSA DA POSSE DE BENS IMOVEIS DE PROPRIEDADE DO ESTADO DE MINAS GERAIS
-1371|3999,1371,3999,Outros serviços PJ
-1371|4002,1371,4002,Serviços de TIC
-1371|4003,1371,4003,PRODEMGE
-1371|4004,1371,4004,Serviços de TIC
-1371|4005,1371,4005,Serviços de TIC
-1371|4006,1371,4006,Aquisições de itens de TIC
-1371|4007,1371,4007,PRODEMGE
-1371|4101,1371,4101,Contribuições
-1371|4301,1371,4301,SUBVENÇÕES SOCIAIS
-1371|4701,1371,4701,Obrigações tributárias
-1371|4702,1371,4702,Obrigações tributárias
-1371|4703,1371,4703,Obrigações tributárias
-1371|4704,1371,4704,Obrigações tributárias
-1371|4707,1371,4707,Obrigações tributárias
-1371|4799,1371,4799,Obrigações tributárias
-1371|5103,1371,5103,Obras e projetos
-1371|5107,1371,5107,Obras e projetos
-1371|5110,1371,5110,Obras e projetos de obras
-1371|5114,1371,5114,Obras e projetos de obras
-1371|5201,1371,5201,Despesas com aeronaves
-1371|5204,1371,5204,Demais despesas de capital
-1371|5206,1371,5206,Aquisições de itens de TIC
-1371|5207,1371,5207,Aquisições de itens de TIC
-1371|5208,1371,5208,Aquisições de itens de TIC
-1371|5210,1371,5210,Demais despesas de capital
-1371|5212,1371,5212,Demais despesas de capital
-1371|5214,1371,5214,Demais despesas de capital
-1371|5220,1371,5220,Aquisições de itens de TIC
-1371|5225,1371,5225,Demais despesas de capital
-1371|5227,1371,5227,Demais despesas de capital
-1371|5299,1371,5299,Demais despesas de capital
-1371|9202,1371,9202,DEAs
-1371|9301,1371,9301,Ajuda de Custo
-1371|9306,1371,9306,Restituição de convênios
-1371|9312,1371,9312,INDENIZAÇÃO POR UTILIZAÇÃO DE BENS DE TERCEIROS
-1371|9399,1371,9399,OUTRAS INDENIZAÇÕES E RESTITUIÇÕES
 1401|1314,1401,1314,INSS e Obrigações patronais
 1401|1401,1401,1401,Diárias e viagens
 1401|1501,1401,1501,Diárias e viagens
@@ -1539,9 +1413,11 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1451|3030,1451,3030,Material de consumo
 1451|3031,1451,3031,Material de consumo
 1451|3032,1451,3032,Material de consumo
+1451|3039,1451,3039,Material de consumo
 1451|3040,1451,3040,Material de consumo
 1451|3041,1451,3041,Material de consumo
 1451|3099,1451,3099,Material de consumo
+1451|3104,1451,3104,Demais despesas de custeio
 1451|3201,1451,3201,Demais despesas de custeio
 1451|3202,1451,3202,Demais despesas de custeio
 1451|3301,1451,3301,Diárias e viagens
@@ -1568,6 +1444,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1451|3703,1451,3703,Terceirizados - MGS
 1451|3704,1451,3704,Terceirizados - MGS
 1451|3705,1451,3705,Terceirizados - MGS
+1451|3707,1451,3707,Encargos e Multas
 1451|3901,1451,3901,Auxílios diversos (transp alim funeral e etc)
 1451|3903,1451,3903,Alimentação
 1451|3904,1451,3904,Demais despesas de custeio
@@ -1576,6 +1453,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1451|3910,1451,3910,Demais despesas de custeio
 1451|3912,1451,3912,Utilidade Pública
 1451|3913,1451,3913,Utilidade Pública
+1451|3914,1451,3914,Serviços de TIC
 1451|3915,1451,3915,Utilidade Pública
 1451|3917,1451,3917,Frota
 1451|3918,1451,3918,Frota
@@ -1620,6 +1498,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1451|3985,1451,3985,Demais despesas de custeio
 1451|3987,1451,3987,Frota
 1451|3988,1451,3988,Demais despesas de custeio
+1451|3991,1451,3991,Demais despesas de custeio
 1451|3992,1451,3992,Termos de parceria e contratos de gestão
 1451|3993,1451,3993,Demais despesas de custeio
 1451|3998,1451,3998,Serviços de saúde e medicamentos
@@ -1886,6 +1765,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1491|3931,1491,3931,Demais despesas de custeio
 1491|3936,1491,3936,PRODEMGE
 1491|3937,1491,3937,Aluguéis e condomínios
+1491|3939,1491,3939,Demais despesas de custeio
 1491|3940,1491,3940,Serviços de TIC
 1491|3943,1491,3943,Frota
 1491|3948,1491,3948,Cursos de formação e capacitações
@@ -2196,6 +2076,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1541|3970,1541,3970,Serviços de TIC
 1541|3972,1541,3972,Utilidade Pública
 1541|3981,1541,3981,Demais despesas de custeio
+2281|3972,2281,3972,Utilidade Pública
 1541|3991,1541,3991,Demais despesas de custeio
 1541|3999,1541,3999,Demais despesas de custeio
 1541|4002,1541,4002,Serviços de TIC
@@ -2309,19 +2190,24 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1631|3703,1631,3703,Terceirizados - MGS
 1631|3704,1631,3704,Terceirizados - MGS
 1631|3705,1631,3705,Terceirizados - MGS
+1631|3903,1631,3903,Alimentacão
 1631|3908,1631,3908,Demais despesas de custeio
 1631|3909,1631,3909,Demais despesas de custeio
 1631|3911,1631,3911,Demais despesas de custeio
+1631|3912,1631,3912,Utilidade Pública
 1631|3917,1631,3917,Frota
 1631|3918,1631,3918,Frota
 1631|3919,1631,3919,Gestão de equipamentos
+1631|3920,1631,3920,Aluguéis e condomínio
 1631|3921,1631,3921,Gestão de equipamentos
+1631|3922,1631,3922,Reparo de imóveis
 1631|3923,1631,3923,Demais despesas de custeio
 1631|3924,1631,3924,Cursos de formação e capacitações
 1631|3926,1631,3926,Encargos e Multas
 1631|3930,1631,3930,Encargos e Multas
 1631|3931,1631,3931,Demais despesas de custeio
 1631|3936,1631,3936,PRODEMGE
+1631|3937,1631,3937,Aluguéis e condomínio
 1631|3939,1631,3939,Demais despesas de custeio
 1631|3940,1631,3940,Serviços de TIC
 1631|3941,1631,3941,"ANUIDADES, CERTIFICADOS E REGISTROS"
@@ -2329,6 +2215,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1631|3950,1631,3950,Diárias e viagens
 1631|3952,1631,3952,Estagiários
 1631|3955,1631,3955,Demais despesas de custeio
+1631|3961,1631,3961,Terceirização - Demais Empresas
 1631|3968,1631,3968,Demais despesas de custeio
 1631|3969,1631,3969,Utilidade Pública
 1631|3970,1631,3970,Serviços de TIC
@@ -2337,11 +2224,15 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1631|4002,1631,4002,Serviços de TIC
 1631|4003,1631,4003,PRODEMGE
 1631|4004,1631,4004,Serviços de TIC
+1631|4005,1631,4005,Serviços de TIC
+1631|4007,1631,4007,PRODEMGE
 1631|5201,1631,5201,Despesas com aeronaves
 1631|5206,1631,5206,Aquisições de itens de TIC
 1631|5207,1631,5207,Aquisições de itens de TIC
 1631|5208,1631,5208,Aquisições de itens de TIC
 1631|5212,1631,5212,Demais despesas de capital
+1631|5214,1631,5214,Demais despesas de capital
+1631|5299,1631,5299,Demais despesas de capital
 1631|9202,1631,9202,DEAs
 1631|9399,1631,9399,Demais despesas de custeio
 1641|1314,1641,1314,INSS e Obrigações patronais
@@ -2721,6 +2612,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1721|5212,1721,5212,Demais despesas de capital
 1721|5214,1721,5214,Demais despesas de capital
 1721|5225,1721,5225,Demais despesas de capital
+1721|7001,1721,7001,Consud
 1721|9202,1721,9202,DEAs
 1911|3502,1911,3502,Demais despesas de custeio
 1911|3925,1911,3925,Encargos e Multas
@@ -2882,6 +2774,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2011|4904,2011,4904,Auxílios diversos (transp alim funeral e etc)
 2011|5101,2011,5101,Obras e projetos de obras
 2011|5103,2011,5103,Obras e projetos
+2281|5103,2281,5103,Obras e projetos
 2011|5203,2011,5203,Demais despesas de capital
 2011|5204,2011,5204,Demais despesas de capital
 2011|5206,2011,5206,Aquisições de itens de TIC
@@ -2898,6 +2791,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2011|5225,2011,5225,Demais despesas de capital
 2011|5226,2011,5226,Demais despesas de capital
 2011|5227,2011,5227,Demais despesas de capital
+2281|5227,2281,5227,Demais despesas de capital
 2011|5230,2011,5230,Demais despesas de capital
 2011|5299,2011,5299,Demais despesas de capital
 2011|5905,2011,5905,Demais despesas de custeio
@@ -3036,6 +2930,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2061|3941,2061,3941,Demais despesas de custeio
 2061|3943,2061,3943,Frota
 2061|3948,2061,3948,Cursos de formação e capacitações
+2281|3948,2281,3948,Cursos de formação e capacitações
 2061|3953,2061,3953,Cursos de formação e capacitações
 2061|3955,2061,3955,Demais despesas de custeio
 2061|3959,2061,3959,Demais despesas de custeio
@@ -3179,264 +3074,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2071|5225,2071,5225,Demais despesas de capital
 2071|5227,2071,5227,Demais despesas de capital
 2071|6501,2071,6501,Constituição ou aumento de capital de empresas
-2091|1314,2091,1314,INSS e Obrigações patronais
-2091|1317,2091,1317,INSS e Obrigações patronais
-2091|1325,2091,1325,INSS e Obrigações patronais
-2091|1401,2091,1401,Diárias e viagens
-2091|3001,2091,3001,Material de consumo
-2091|3002,2091,3002,Material de consumo
-2091|3003,2091,3003,Material de consumo
-2091|3004,2091,3004,Material de consumo
-2091|3005,2091,3005,Material de consumo
-2091|3008,2091,3008,Material de consumo
-2091|3010,2091,3010,Serviços de saúde e medicamentos
-2091|3012,2091,3012,Serviços de saúde e medicamentos
-2091|3013,2091,3013,Material de consumo
-2091|3016,2091,3016,Material de consumo
-2091|3017,2091,3017,Material de consumo
-2091|3019,2091,3019,Reparo de imóveis
-2091|3020,2091,3020,Material de consumo
-2091|3021,2091,3021,Material de consumo
-2091|3022,2091,3022,Material de consumo
-2091|3023,2091,3023,Frota
-2091|3024,2091,3024,Material de consumo
-2091|3025,2091,3025,Material de consumo
-2091|3026,2091,3026,Frota
-2091|3027,2091,3027,Material de consumo
-2091|3030,2091,3030,Material de consumo
-2091|3099,2091,3099,Material de consumo
-2091|3101,2091,3101,"Prêmios, diplomas, condecorações e medalhas"
-2091|3301,2091,3301,Diárias e viagens
-2091|3302,2091,3302,Diárias e viagens
-2091|3304,2091,3304,Diárias e viagens
-2091|3502,2091,3502,Consultoria
-2091|3602,2091,3602,OUTROS SERVIÇOS DE TERCEIROS - PESSOA FÍSICA
-2091|3604,2091,3604,Diárias e viagens
-2091|3610,2091,3610,Demais despesas de custeio
-2091|3611,2091,3611,Aluguéis e condomínios
-2091|3612,2091,3612,Demais despesas de custeio
-2091|3616,2091,3616,Frota
-2091|3617,2091,3617,"REPAROS DE EQUIPAMENTOS, INSTALACOES E MATERIAL PERMANENTE"
-2091|3618,2091,3618,Reparo de imóveis
-2091|3699,2091,3699,OUTRAS DESPESAS PAGAS A PESSOAS FÍSICAS
-2091|3702,2091,3702,Demais terceirizados
-2091|3703,2091,3703,Terceirizados - MGS
-2091|3704,2091,3704,Terceirizados - MGS
-2091|3705,2091,3705,Terceirizados - MGS
-2091|3902,2091,3902,VALE-REFEIÇÃO
-2091|3904,2091,3904,CONFECCAO EM GERAL
-2091|3905,2091,3905,TRANSPORTE E ACONDICIONAMENTO DE ANIMAIS
-2091|3906,2091,3906,TRANSPORTE E ACONDICIONAMENTO DE MATERIAIS E EQUIPAMENTOS
-2091|3908,2091,3908,Publicidade
-2091|3910,2091,3910,Seguros
-2091|3911,2091,3911,"ASSINATURAS DE JORNAIS, REVISTAS E PERIÓDICOS"
-2091|3912,2091,3912,Utilidade Pública
-2091|3913,2091,3913,Utilidade Pública
-2091|3915,2091,3915,Utilidade Pública
-2091|3917,2091,3917,Frota
-2091|3918,2091,3918,Frota
-2091|3919,2091,3919,Gestão de equipamentos
-2091|3920,2091,3920,Aluguéis e condomínios
-2091|3921,2091,3921,Gestão de equipamentos
-2091|3922,2091,3922,Reparo de imóveis
-2091|3924,2091,3924,Cursos de formação e capacitações
-2091|3925,2091,3925,Encargos e Multas
-2091|3926,2091,3926,Encargos e Multas
-2091|3930,2091,3930,Encargos e Multas
-2091|3931,2091,3931,Demais despesas de custeio
-2091|3937,2091,3937,Aluguéis e condomínios
-2091|3939,2091,3939,Publicidade
-2091|3940,2091,3940,Serviços de TIC
-2091|3941,2091,3941,"ANUIDADES, CERTIFICADOS E REGISTROS"
-2091|3942,2091,3942,SERVICOS GRAFICOS DE SEGURANCA
-2091|3943,2091,3943,Frota
-2091|3946,2091,3946,Termos de parceria e contratos de gestão
-2091|3948,2091,3948,Cursos de formação e capacitações
-2091|3952,2091,3952,Estagiários
-2091|3958,2091,3958,"CONTRATAÇÃO DE PROJETOS EM PESQUISA DE CIÊNCIA, INOVAÇÃO E TECNOLOGIA"
-2091|3961,2091,3961,Terceirizados - Demais empresas
-2091|3962,2091,3962,Serviços de vigilância
-2091|3969,2091,3969,Utilidade Pública
-2091|3970,2091,3970,Serviços de TIC
-2091|3971,2091,3971,Serviços de vigilância
-2091|3978,2091,3978,Terceirizados - Demais empresas
-2091|3980,2091,3980,INSS e Obrigações patronais
-2091|3987,2091,3987,Frota
-2091|3999,2091,3999,Outros serviços PJ
-2091|4002,2091,4002,Serviços de TIC
-2091|4003,2091,4003,PRODEMGE
-2091|4004,2091,4004,Serviços de TIC
-2091|4005,2091,4005,Serviços de TIC
 2071|6502,2071,6502,Constituição ou aumento de capital de empresas
-2091|4006,2091,4006,Aquisições de itens de TIC
-2091|4301,2091,4301,SUBVENÇÕES SOCIAIS
-2091|4701,2091,4701,Obrigações tributárias
-2091|4703,2091,4703,Obrigações tributárias
-2091|4706,2091,4706,Obrigações tributárias
-2091|4707,2091,4707,Obrigações tributárias
-2091|4799,2091,4799,Obrigações tributárias
-2091|5107,2091,5107,Obras e projetos
-2091|5201,2091,5201,Despesas com aeronaves
-2091|5206,2091,5206,Aquisições de itens de TIC
-2091|5207,2091,5207,Aquisições de itens de TIC
-2091|5208,2091,5208,Aquisições de itens de TIC
-2091|5209,2091,5209,Demais despesas de capital
-2091|5210,2091,5210,Demais despesas de capital
-2091|5211,2091,5211,Serviços de saúde e medicamentos
-2091|5214,2091,5214,Demais despesas de capital
-2091|5217,2091,5217,Aquisição de Veículos
-2091|5226,2091,5226,Demais despesas de capital
-2091|9202,2091,9202,DEAs
-2091|9301,2091,9301,Ajuda de Custo
-2091|9399,2091,9399,OUTRAS INDENIZAÇÕES E RESTITUIÇÕES
-2091|9701,2091,9701,APORTE PARA COBERTURA DO DÉFICIT ATUARIAL DO RPPS
-2101|810,2101,810,Auxílios diversos (transp alim funeral e etc)
-2101|1305,2101,1305,INSS e Obrigações patronais
-2101|1307,2101,1307,INSS e Obrigações patronais
-2101|1314,2101,1314,INSS e Obrigações patronais
-2101|1317,2101,1317,INSS e Obrigações patronais
-2101|1323,2101,1323,Serviços de saúde e medicamentos
-2101|1401,2101,1401,Diárias e viagens
-2101|1501,2101,1501,Diárias e viagens
-2101|3001,2101,3001,Material de consumo
-2101|3002,2101,3002,Material de consumo
-2101|3003,2101,3003,Material de consumo
-2101|3004,2101,3004,Material de consumo
-2101|3005,2101,3005,Material de consumo
-2101|3006,2101,3006,Material de consumo
-2101|3007,2101,3007,Material de consumo
-2101|3008,2101,3008,Material de consumo
-2101|3009,2101,3009,Material de consumo
-2101|3010,2101,3010,Serviços de saúde e medicamentos
-2101|3011,2101,3011,Material de consumo
-2101|3012,2101,3012,Serviços de saúde e medicamentos
-2101|3013,2101,3013,Material de consumo
-2101|3015,2101,3015,Material de consumo
-2101|3016,2101,3016,Material de consumo
-2101|3017,2101,3017,Material de consumo
-2101|3019,2101,3019,Reparo de imóveis
-2101|3020,2101,3020,Material de consumo
-2101|3021,2101,3021,Material de consumo
-2101|3022,2101,3022,Material de consumo
-2101|3023,2101,3023,Frota
-2101|3024,2101,3024,Material de consumo
-2101|3025,2101,3025,Material de consumo
-2101|3026,2101,3026,Frota
-2101|3027,2101,3027,Material de consumo
-2101|3029,2101,3029,Material de consumo
-2101|3030,2101,3030,Material de consumo
-2101|3033,2101,3033,Despesas com aeronaves
-2101|3034,2101,3034,Despesas com aeronaves
-2101|3040,2101,3040,Material de consumo
-2101|3041,2101,3041,Material de consumo
-2101|3099,2101,3099,Material de consumo
-2101|3201,2101,3201,Material de distribuição gratuita
-2101|3301,2101,3301,Diárias e viagens
-2101|3302,2101,3302,Diárias e viagens
-2101|3304,2101,3304,Diárias e viagens
-2101|3401,2101,3401,Contratos Administrativos
-2101|3403,2101,3403,INSS e Obrigações patronais
-2101|3404,2101,3404,INSS e Obrigações patronais
-2101|3405,2101,3405,Auxílios diversos (transp alim funeral e etc)
-2101|3502,2101,3502,Consultoria
-2101|3604,2101,3604,Diárias e viagens
-2101|3610,2101,3610,Demais despesas de custeio
-2101|3611,2101,3611,Aluguéis e condomínios
-2101|3612,2101,3612,Demais despesas de custeio
-2101|3615,2101,3615,Encargos e Multas
-2101|3619,2101,3619,CONFERÊNCIAS E EXPOSIÇÕES
-2101|3631,2101,3631,Outros
-2101|3699,2101,3699,OUTRAS DESPESAS PAGAS A PESSOAS FÍSICAS
-2101|3701,2101,3701,Terceirizados - Demais empresas
-2101|3702,2101,3702,Demais terceirizados
-2101|3703,2101,3703,Terceirizados - MGS
-2101|3704,2101,3704,Terceirizados - MGS
-2101|3705,2101,3705,Terceirizados - MGS
-2101|3903,2101,3903,Demais despesas de custeio
-2101|3904,2101,3904,CONFECCAO EM GERAL
-2101|3906,2101,3906,TRANSPORTE E ACONDICIONAMENTO DE MATERIAIS E EQUIPAMENTOS
-2101|3908,2101,3908,Publicidade
-2101|3909,2101,3909,Publicidade
-2101|3910,2101,3910,Seguros
-2101|3911,2101,3911,"ASSINATURAS DE JORNAIS, REVISTAS E PERIÓDICOS"
-2101|3912,2101,3912,Utilidade Pública
-2101|3913,2101,3913,Utilidade Pública
-2101|3915,2101,3915,Utilidade Pública
-2101|3917,2101,3917,Frota
-2101|3918,2101,3918,Frota
-2101|3919,2101,3919,Gestão de equipamentos
-2101|3920,2101,3920,Aluguéis e condomínios
-2101|3921,2101,3921,Gestão de equipamentos
-2101|3922,2101,3922,Reparo de imóveis
-2101|3924,2101,3924,Cursos de formação e capacitações
-2101|3925,2101,3925,Encargos e Multas
-2101|3926,2101,3926,Encargos e Multas
-2101|3927,2101,3927,Serviços de TIC
-2101|3930,2101,3930,Encargos e Multas
-2101|3931,2101,3931,Demais despesas de custeio
-2101|3934,2101,3934,Despesas com aeronaves
-2101|3935,2101,3935,Despesas com aeronaves
-2101|3937,2101,3937,Aluguéis e condomínios
-2101|3939,2101,3939,Publicidade
-2101|3940,2101,3940,Serviços de TIC
-2101|3941,2101,3941,"ANUIDADES, CERTIFICADOS E REGISTROS"
-2101|3943,2101,3943,Frota
-2101|3946,2101,3946,Termos de parceria e contratos de gestão
-2101|3948,2101,3948,Cursos de formação e capacitações
-2101|3952,2101,3952,Estagiários
-2101|3953,2101,3953,Cursos de formação e capacitações
-2101|3961,2101,3961,Terceirizados - Demais empresas
-2101|3962,2101,3962,Serviços de vigilância
-2101|3964,2101,3964,Serviços de Mapeamento e Georreferenciamento
-2101|3970,2101,3970,Serviços de TIC
-2101|3971,2101,3971,Serviços de vigilância
-2101|3978,2101,3978,Terceirizados - Demais empresas
-2101|3980,2101,3980,INSS e Obrigações patronais
-2101|3987,2101,3987,Frota
-2101|3988,2101,3988,MULTA POR ATO INFRACIONAL
-2101|3993,2101,3993,"APOIO A PROJETOS DE INCENTIVO A INOVACAO E A PESQUISA CIENTIFICA E TECNOLOGICA, A CAPACITACAO TECNOLOGICA E AO ALCANCE DA AUTONOMIA TECNOLOGICA"
-2101|3994,2101,3994,Despesas com aeronaves
-2101|3999,2101,3999,Outros serviços PJ
-2101|4002,2101,4002,Serviços de TIC
-2101|4003,2101,4003,PRODEMGE
-2101|4004,2101,4004,Serviços de TIC
-2101|4005,2101,4005,Serviços de TIC
-2101|4006,2101,4006,Aquisições de itens de TIC
-2101|4007,2101,4007,PRODEMGE
-2101|4701,2101,4701,Obrigações tributárias
-2101|4703,2101,4703,Obrigações tributárias
-2101|4706,2101,4706,Obrigações tributárias
-2101|4707,2101,4707,Obrigações tributárias
-2101|4799,2101,4799,Obrigações tributárias
-2101|5101,2101,5101,Obras e projetos de obras
-2101|5102,2101,5102,Outros
-2101|5103,2101,5103,Obras e projetos
-2101|5112,2101,5112,MATERIAL PARA OBRAS - BENS NÃO PATRIMONIÁVEIS
-2101|5201,2101,5201,Despesas com aeronaves
-2101|5203,2101,5203,Demais despesas de capital
-2101|5204,2101,5204,Demais despesas de capital
-2101|5205,2101,5205,Demais despesas de capital
-2101|5206,2101,5206,Aquisições de itens de TIC
-2101|5207,2101,5207,Aquisições de itens de TIC
-2101|5208,2101,5208,Aquisições de itens de TIC
-2101|5209,2101,5209,Demais despesas de capital
-2101|5210,2101,5210,Demais despesas de capital
-2101|5211,2101,5211,Serviços de saúde e medicamentos
-2101|5212,2101,5212,Demais despesas de capital
-2101|5214,2101,5214,Demais despesas de capital
-2101|5216,2101,5216,Aquisição de Veículos
-2101|5217,2101,5217,Demais despesas de capital
-2101|5220,2101,5220,Aquisições de itens de TIC
-2101|5225,2101,5225,Demais despesas de capital
-2101|5226,2101,5226,Demais despesas de capital
-2101|5299,2101,5299,Demais despesas de capital
-2101|6101,2101,6101,AQUISIÇÃO DE IMÓVEIS - TERRENOS
-2101|9108,2101,9108,Precatórios
-2101|9202,2101,9202,DEAs
-2101|9301,2101,9301,Ajuda de Custo
-2101|9306,2101,9306,Restituição de convênios
-2101|9312,2101,9312,INDENIZAÇÃO POR UTILIZAÇÃO DE BENS DE TERCEIROS
-2101|9399,2101,9399,OUTRAS INDENIZAÇÕES E RESTITUIÇÕES
 2121|501,2121,501,Auxílios diversos (transp alim funeral e etc)
 2121|505,2121,505,Auxílios diversos (transp alim funeral e etc)
 2121|802,2121,802,Auxílios diversos (transp alim funeral e etc)
@@ -3588,6 +3226,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2151|3032,2151,3032,Material de consumo
 2151|3036,2151,3036,Material de consumo
 2151|3039,2151,3039,Material de consumo
+1221|3039,1221,3039,Material de consumo
 2151|3040,2151,3040,Material de consumo
 2151|3041,2151,3041,Demais despesas de custeio
 2151|3099,2151,3099,Material de consumo
@@ -3726,6 +3365,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2161|3304,2161,3304,Diárias e viagens
 2161|3305,2161,3305,Demais despesas de custeio
 2161|3401,2161,3401,Terceirizados - Demais empresas
+2161|3502,2161,3502,Consultoria
 2161|3604,2161,3604,Diárias e viagens
 2161|3606,2161,3606,Alimentação
 2161|3610,2161,3610,Demais despesas de custeio
@@ -4212,107 +3852,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2211|9202,2211,9202,DEAs
 2211|9306,2211,9306,Restituição de convênios
 2211|9399,2211,9399,Demais despesas de custeio
-2241|702,2241,702,Encargos e Multas
-2241|1314,2241,1314,INSS e Obrigações patronais
-2241|1317,2241,1317,INSS e Obrigações patronais
-2241|1401,2241,1401,Diárias e viagens
-2241|3001,2241,3001,Material de consumo
-2241|3003,2241,3003,Material de consumo
-2241|3004,2241,3004,Material de consumo
-2241|3005,2241,3005,Material de consumo
-2241|3010,2241,3010,Serviços de saúde e medicamentos
-2241|3012,2241,3012,Serviços de saúde e medicamentos
-2241|3013,2241,3013,Material de consumo
-2241|3015,2241,3015,Material de consumo
-2241|3016,2241,3016,Outros
-2241|3017,2241,3017,Material de consumo
-2241|3019,2241,3019,Reparo de imóveis
-2241|3020,2241,3020,Material de consumo
-2241|3021,2241,3021,Material de consumo
-2241|3022,2241,3022,Material de consumo
-2241|3023,2241,3023,Frota
-2241|3024,2241,3024,Material de consumo
-2241|3025,2241,3025,Material de consumo
-2241|3026,2241,3026,Frota
-2241|3027,2241,3027,Material de consumo
-2241|3041,2241,3041,Material de consumo
-2241|3099,2241,3099,Material de consumo
-2241|3101,2241,3101,"Prêmios, diplomas, condecorações e medalhas"
-2241|3301,2241,3301,Diárias e viagens
-2241|3302,2241,3302,Diárias e viagens
-2241|3304,2241,3304,Diárias e viagens
-2241|3502,2241,3502,Consultoria
-2241|3604,2241,3604,Diárias e viagens
-2241|3610,2241,3610,Demais despesas de custeio
-2241|3612,2241,3612,Demais despesas de custeio
-2241|3616,2241,3616,Frota
-2241|3625,2241,3625,CONTRATACAO PARA PRESTACAO DE SERVICO POR CREDENCIADOS
-2241|3699,2241,3699,OUTRAS DESPESAS PAGAS A PESSOAS FÍSICAS
-2241|3702,2241,3702,Demais terceirizados
-2241|3703,2241,3703,Terceirizados - MGS
-2241|3704,2241,3704,Terceirizados - MGS
-2241|3705,2241,3705,Terceirizados - MGS
-2241|3903,2241,3903,Demais despesas de custeio
-2241|3904,2241,3904,CONFECÇÃO EM GERAL
-2241|3906,2241,3906,TRANSPORTE E ACONDICIONAMENTO DE MATERIAIS E EQUIPAMENTOS
-2241|3908,2241,3908,Publicidade
-2241|3909,2241,3909,Publicidade
-2241|3910,2241,3910,Seguros
-2241|3911,2241,3911,"ASSINATURAS DE JORNAIS, REVISTAS E PERIÓDICOS"
-2241|3912,2241,3912,Utilidade Pública
-2241|3913,2241,3913,Utilidade Pública
-2241|3915,2241,3915,Utilidade Pública
-2241|3917,2241,3917,Frota
-2241|3918,2241,3918,Frota
-2241|3919,2241,3919,Gestão de equipamentos
-2241|3922,2241,3922,Reparo de imóveis
-2241|3924,2241,3924,Cursos de formação e capacitações
-2241|3925,2241,3925,Encargos e Multas
-2241|3926,2241,3926,Encargos e Multas
-2241|3927,2241,3927,Serviços de TIC
-2241|3930,2241,3930,Encargos e Multas
-2241|3931,2241,3931,Demais despesas de custeio
-2241|3933,2241,3933,TAXA DE ADMINISTRAÇÃO
-2241|3939,2241,3939,Publicidade
-2241|3940,2241,3940,Serviços de TIC
-2241|3941,2241,3941,"ANUIDADES, CERTIFICADOS E REGISTROS"
-2241|3943,2241,3943,Frota
-2241|3948,2241,3948,Cursos de formação e capacitações
-2241|3952,2241,3952,Estagiários
-2241|3964,2241,3964,Serviços de Mapeamento e Georreferenciamento
-2241|3970,2241,3970,Serviços de TIC
-2241|3973,2241,3973,SERVIÇO DE ENGENHARIA PARA OPERAÇÃO DE BENS DE DOMÍNIO PÚBLICO
-2241|3978,2241,3978,Terceirizados - Demais empresas
-2241|3987,2241,3987,Frota
-2241|3999,2241,3999,Outros serviços PJ
-2241|4002,2241,4002,Serviços de TIC
-2241|4003,2241,4003,PRODEMGE
-2241|4004,2241,4004,Serviços de TIC
-2241|4005,2241,4005,Serviços de TIC
-2241|4006,2241,4006,Aquisições de itens de TIC
-2241|4101,2241,4101,Contribuições aos Comitês de Bacia
-2241|4201,2241,4201,Instrumentos de Saída
-2241|4301,2241,4301,SUBVENÇÕES SOCIAIS
-2241|4701,2241,4701,Obrigações tributárias
-2241|4703,2241,4703,Obrigações tributárias
-2241|4706,2241,4706,Obrigações tributárias
-2241|4799,2241,4799,Obrigações tributárias
-2241|5201,2241,5201,Despesas com aeronaves
-2241|5204,2241,5204,Demais despesas de capital
-2241|5206,2241,5206,Aquisições de itens de TIC
-2241|5207,2241,5207,Aquisições de itens de TIC
-2241|5208,2241,5208,Aquisições de itens de TIC
-2241|5210,2241,5210,Demais despesas de capital
-2241|5212,2241,5212,Demais despesas de capital
-2241|5217,2241,5217,Demais despesas de capital
-2241|5222,2241,5222,Demais despesas de capital
-2241|5225,2241,5225,Demais despesas de capital
-2241|5230,2241,5230,Demais despesas de capital
-2241|9202,2241,9202,DEAs
-2241|9306,2241,9306,Restituição de convênios
-2241|9310,2241,9310,RESTITUIÇÃO DE RECEITA - EXERCÍCIO ANTERIOR
-2241|9326,2241,9326,Demais despesas de custeio
-2241|9399,2241,9399,OUTRAS INDENIZAÇÕES E RESTITUIÇÕES
 2251|1401,2251,1401,Diárias e viagens
 2251|3003,2251,3003,Material de consumo
 2251|3005,2251,3005,Material de consumo
@@ -4894,7 +4433,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2301|3942,2301,3942,Demais despesas de custeio
 2301|3943,2301,3943,Frota
 2301|3948,2301,3948,Cursos de formação e capacitações
-2301|3951,2301,3951,Obras e projetos de obras
+2301|3951,2301,3951,Obras e projetos
 2301|3952,2301,3952,Estagiários
 2301|3955,2301,3955,Demais despesas de custeio
 2301|3956,2301,3956,Demais despesas de custeio
@@ -4931,11 +4470,11 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2301|4709,2301,4709,Obrigações tributárias
 2301|4710,2301,4710,Obrigações tributárias
 2301|4799,2301,4799,Obrigações tributárias
-2301|5101,2301,5101,Obras e projetos de obras
+2301|5101,2301,5101,Obras e projetos
 2301|5103,2301,5103,Obras e projetos
 2301|5106,2301,5106,Obras e projetos
 2301|5107,2301,5107,Obras e projetos
-2301|5110,2301,5110,Obras e projetos de obras
+2301|5110,2301,5110,Obras e projetos
 2301|5112,2301,5112,Obras e projetos
 2301|5204,2301,5204,Demais aquisições
 2301|5206,2301,5206,Aquisições de itens de TIC
@@ -4974,7 +4513,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2311|3005,2311,3005,Material de consumo
 2311|3006,2311,3006,Material de consumo
 2311|3007,2311,3007,Material de consumo
-2311|3008,2311,3008,Material de consumo
+2311|3008,2311,3008,Alimentação
 2311|3009,2311,3009,Material de consumo
 2311|3010,2311,3010,Serviços de saúde e medicamentos
 2311|3011,2311,3011,Material de consumo
@@ -5001,6 +4540,8 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2311|3040,2311,3040,Material de consumo
 2311|3041,2311,3041,Demais despesas de custeio
 2311|3099,2311,3099,Material de consumo
+2311|3101,2311,3101,Demais despesas de custeio
+2311|3201,2311,3201,Demais despesas de custeio
 2311|3202,2311,3202,Demais despesas de custeio
 2311|3301,2311,3301,Diárias e viagens
 2311|3302,2311,3302,Diárias e viagens
@@ -5018,6 +4559,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2311|3612,2311,3612,Demais despesas de custeio
 2311|3614,2311,3614,Demais despesas de custeio
 2311|3616,2311,3616,Frota
+2311|3619,2311,3619,Demais despesas de custeio
 2311|3622,2311,3622,Aluguéis e condomínios
 2311|3699,2311,3699,Demais despesas de custeio
 2311|3701,2311,3701,Terceirizados - Demais empresas
@@ -5048,6 +4590,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2311|3927,2311,3927,Serviços de TIC
 2311|3930,2311,3930,Encargos e Multas
 2311|3931,2311,3931,Demais despesas de custeio
+2311|3934,2311,3934,Demais despesas de custeio
 2311|3936,2311,3936,PRODEMGE
 2311|3937,2311,3937,Aluguéis e condomínios
 2311|3938,2311,3938,Demais despesas de custeio
@@ -5068,7 +4611,9 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2311|3971,2311,3971,Serviços de vigilância
 2311|3974,2311,3974,Concurso público
 2311|3981,2311,3981,Demais despesas de custeio
+2311|3986,2311,3986,Demais despesas de custeio
 2311|3987,2311,3987,Frota
+2311|3995,2311,3995,Demais despesas de custeio
 2311|3998,2311,3998,Serviços de saúde e medicamentos
 2311|3999,2311,3999,Demais despesas de custeio
 2311|4002,2311,4002,Serviços de TIC
@@ -5104,6 +4649,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2311|5219,2311,5219,Demais despesas de capital
 2311|5220,2311,5220,Aquisições de itens de TIC
 2311|5221,2311,5221,Demais despesas de capital
+2311|5222,2311,5222,Demais despesas de capital
 2311|5223,2311,5223,Material de consumo
 2311|5225,2311,5225,Demais despesas de capital
 2311|5226,2311,5226,Demais despesas de capital
@@ -5428,7 +4974,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2351|3704,2351,3704,Terceirizados - MGS
 2351|3705,2351,3705,Terceirizados - MGS
 2351|3901,2351,3901,Auxílios diversos (transp alim funeral e etc)
-2351|3903,2351,3903,Demais despesas de custeio
+2351|3903,2351,3903,Alimentação
 2351|3904,2351,3904,Demais despesas de custeio
 2351|3906,2351,3906,Demais despesas de custeio
 2351|3908,2351,3908,Demais despesas de custeio
@@ -5461,6 +5007,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2351|3949,2351,3949,Cursos de formação e capacitações
 2351|3952,2351,3952,Estagiários
 2351|3953,2351,3953,Cursos de formação e capacitações
+2351|3955,2351,3955,Demais despesas de custeio
 2351|3959,2351,3959,Demais despesas de custeio
 2351|3961,2351,3961,Terceirizados - Demais empresas
 2351|3962,2351,3962,Serviços de vigilância
@@ -5468,8 +5015,10 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2351|3969,2351,3969,Utilidade Pública
 2351|3970,2351,3970,Serviços de TIC
 2351|3971,2351,3971,Serviços de vigilância
+2351|3974,2351,3974,Concurso público
 2351|3978,2351,3978,Terceirizados - Demais empresas
 2351|3981,2351,3981,Demais despesas de custeio
+2351|3986,2351,3986,Demais despesas de custeio
 2351|3987,2351,3987,Frota
 2351|3991,2351,3991,Demais despesas de custeio
 2351|3993,2351,3993,Demais despesas de custeio
@@ -6424,33 +5973,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 4331|4003,4331,4003,PRODEMGE
 4331|4101,4331,4101,Demais despesas de custeio
 4331|9202,4331,9202,DEAs
-4341|1314,4341,1314,INSS e Obrigações patronais
-4341|1317,4341,1317,INSS e Obrigações patronais
-4341|1401,4341,1401,Diárias e viagens
-4341|3005,4341,3005,Material de consumo
-4341|3016,4341,3016,Material de consumo
-4341|3301,4341,3301,Diárias e viagens
-4341|3302,4341,3302,Diárias e viagens
-4341|3304,4341,3304,Diárias e viagens
-4341|3502,4341,3502,SERVIÇOS DE CONSULTORIA ? PESSOA JURÍDICA
-4341|3604,4341,3604,Diárias e viagens
-4341|3704,4341,3704,Terceirizados - MGS
-4341|3705,4341,3705,Terceirizados - MGS
-4341|3903,4341,3903,Demais despesas de custeio
-4341|3912,4341,3912,Utilidade Pública
-4341|3924,4341,3924,Cursos de formação e capacitações
-4341|3926,4341,3926,Encargos e Multas
-4341|3940,4341,3940,Serviços de TIC
-4341|3948,4341,3948,Cursos de formação e capacitações
-4341|3964,4341,3964,Serviços de Mapeamento e Georreferenciamento
-4341|3999,4341,3999,Outros serviços PJ
-4341|4003,4341,4003,PRODEMGE
-4341|4101,4341,4101,Contribuições
-4341|4801,4341,4801,Bolsa Verde
-4341|5103,4341,5103,Obras e projetos
-4341|5210,4341,5210,Demais despesas de capital
-4341|5214,4341,5214,Demais despesas de capital
-4341|9202,4341,9202,DEAs
 4381|1401,4381,1401,Diárias e viagens
 4381|3001,4381,3001,Material de consumo
 4381|3002,4381,3002,Material de consumo
@@ -7116,16 +6638,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2071|3939,2071,3939,Publicidade
 2071|9203,2071,9203,DEA
 2071|3301,2071,3301,Diárias e viagens
-2091|9312,2091,9312,Indenizações
-2091|9301,2091,9301,Indenizações
-2091|5225,2091,5225,Demais aquisições
-2091|3012,2091,3012,Serviços de saúde e medicamentos
-2091|3023,2091,3023,Frota
-2101|4006,2101,4006,Aquisições de itens de TIC
-2101|5112,2101,5112,Obras e projetos
-2101|5227,2101,5227,Demais aquisições
-2101|4702,2101,4702,Obrigações tributárias
-2101|3006,2101,3006,Material de consumo
 2121|9312,2121,9312,Indenizações
 2151|4707,2151,4707,Obrigações tributárias
 2151|3009,2151,3009,Material de consumo
@@ -7138,7 +6650,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2181|3030,2181,3030,Material de consumo
 2181|3023,2181,3023,Frota
 2201|5201,2201,5201,Despesas com aeronaves
-2241|9301,2241,9301,Indenizações
 2251|4008,2251,4008,Aquisições de itens de TIC
 2251|5206,2251,5206,Demais aquisições
 2251|3017,2251,3017,Material de consumo
@@ -7180,8 +6691,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2461|3004,2461,3004,Material de consumo
 2461|3021,2461,3021,Material de consumo
 2471|4706,2471,4706,Obrigações tributárias
-2471|3917,2471,3917,Frota
-2471|3302,2471,3302,Diárias e viagens
 3041|52,3041,52,Demais aquisições
 3041|39,3041,39,OUTROS SERVICOS DE TERCEIROS - PESSOA JURIDICA
 3041|30,3041,30,Material de consumo
@@ -7241,7 +6750,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1261|4008,1261,4008,Aquisições de itens de TIC
 1271|4008,1271,4008,Aquisições de itens de TIC
 1301|4008,1301,4008,Aquisições de itens de TIC
-1371|4008,1371,4008,Aquisições de itens de TIC
 1401|4008,1401,4008,Aquisições de itens de TIC
 1411|4008,1411,4008,Aquisições de itens de TIC
 1451|4008,1451,4008,Aquisições de itens de TIC
@@ -7271,8 +6779,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2041|4008,2041,4008,Aquisições de itens de TIC
 2061|4008,2061,4008,Aquisições de itens de TIC
 2071|4008,2071,4008,Aquisições de itens de TIC
-2091|4008,2091,4008,Aquisições de itens de TIC
-2101|4008,2101,4008,Aquisições de itens de TIC
 2121|4008,2121,4008,Aquisições de itens de TIC
 2151|4008,2151,4008,Aquisições de itens de TIC
 2161|4008,2161,4008,Aquisições de itens de TIC
@@ -7280,7 +6786,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2181|4008,2181,4008,Aquisições de itens de TIC
 2201|4008,2201,4008,Aquisições de itens de TIC
 2211|4008,2211,4008,Aquisições de itens de TIC
-2241|4008,2241,4008,Aquisições de itens de TIC
 2251|4008,2251,4008,Aquisições de itens de TIC
 2261|4008,2261,4008,Aquisições de itens de TIC
 2271|4008,2271,4008,Aquisições de itens de TIC
@@ -7296,7 +6801,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2431|4008,2431,4008,Aquisições de itens de TIC
 2441|4008,2441,4008,Aquisições de itens de TIC
 2461|4008,2461,4008,Aquisições de itens de TIC
-2471|4008,2471,4008,Aquisições de itens de TIC
 3041|4008,3041,4008,Aquisições de itens de TIC
 3051|4008,3051,4008,Aquisições de itens de TIC
 3151|4008,3151,4008,Aquisições de itens de TIC
@@ -7306,7 +6810,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 4251|4008,4251,4008,Aquisições de itens de TIC
 4291|4008,4291,4008,Aquisições de itens de TIC
 4331|4008,4331,4008,Aquisições de itens de TIC
-4341|4008,4341,4008,Aquisições de itens de TIC
 4381|4008,4381,4008,Aquisições de itens de TIC
 4421|4008,4421,4008,Aquisições de itens de TIC
 4461|4008,4461,4008,Aquisições de itens de TIC
@@ -7329,7 +6832,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1261|4009,1261,4009,PRODEMGE - Investimento
 1271|4009,1271,4009,PRODEMGE - Investimento
 1301|4009,1301,4009,PRODEMGE - Investimento
-1371|4009,1371,4009,PRODEMGE - Investimento
 1401|4009,1401,4009,PRODEMGE - Investimento
 1411|4009,1411,4009,PRODEMGE - Investimento
 1451|4009,1451,4009,PRODEMGE - Investimento
@@ -7359,8 +6861,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2041|4009,2041,4009,PRODEMGE - Investimento
 2061|4009,2061,4009,PRODEMGE - Investimento
 2071|4009,2071,4009,PRODEMGE - Investimento
-2091|4009,2091,4009,PRODEMGE - Investimento
-2101|4009,2101,4009,PRODEMGE - Investimento
 2121|4009,2121,4009,PRODEMGE - Investimento
 2151|4009,2151,4009,PRODEMGE - Investimento
 2161|4009,2161,4009,PRODEMGE - Investimento
@@ -7368,7 +6868,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2181|4009,2181,4009,PRODEMGE - Investimento
 2201|4009,2201,4009,PRODEMGE - Investimento
 2211|4009,2211,4009,PRODEMGE - Investimento
-2241|4009,2241,4009,PRODEMGE - Investimento
 2251|4009,2251,4009,PRODEMGE - Investimento
 2261|4009,2261,4009,PRODEMGE - Investimento
 2271|4009,2271,4009,PRODEMGE - Investimento
@@ -7384,7 +6883,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2431|4009,2431,4009,PRODEMGE - Investimento
 2441|4009,2441,4009,PRODEMGE - Investimento
 2461|4009,2461,4009,PRODEMGE - Investimento
-2471|4009,2471,4009,PRODEMGE - Investimento
 3041|4009,3041,4009,PRODEMGE - Investimento
 3051|4009,3051,4009,PRODEMGE - Investimento
 3151|4009,3151,4009,PRODEMGE - Investimento
@@ -7394,7 +6892,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 4251|4009,4251,4009,PRODEMGE - Investimento
 4291|4009,4291,4009,PRODEMGE - Investimento
 4331|4009,4331,4009,PRODEMGE - Investimento
-4341|4009,4341,4009,PRODEMGE - Investimento
 4381|4009,4381,4009,PRODEMGE - Investimento
 4421|4009,4421,4009,PRODEMGE - Investimento
 4461|4009,4461,4009,PRODEMGE - Investimento
@@ -7483,7 +6980,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2481|3937,2481,3937,Aluguéis e condomínios
 2481|3940,2481,3940,Serviços de TIC
 2481|3941,2481,3941,Demais despesas de custeio
-2481|3942,2481,3942,Serviços gráficos
+2481|3942,2481,3942,Emissão de documentos
 2481|3943,2481,3943,Frota
 2481|3948,2481,3948,Cursos de formação e capacitações
 2481|3953,2481,3953,Cursos de formação e capacitações
@@ -7503,7 +7000,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2481|3987,2481,3987,Frota
 2481|3991,2481,3991,Credenciados
 2481|3996,2481,3996,Demais despesas de custeio
-2481|3999,2481,3999,Inventário de imóveis e demais despesas de custeio
+2481|3999,2481,3999,Gestão de documentos físicos
 2481|4002,2481,4002,Serviços de TIC
 2481|4003,2481,4003,PRODEMGE
 2481|4004,2481,4004,Serviços de TIC
@@ -7548,22 +7045,750 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2481|5201,2481,5201,Despesas com aeronaves
 2481|5213,2481,5213,Demais aquisições
 2481|1314,2481,1314,INSS e Obrigações patronais
-2481|3031,2481,3031,Material de consumo
 2481|4008,2481,4008,Aquisições de itens de TIC
 2481|5221,2481,5221,Demais aquisições
 2481|1501,2481,1501,Diárias e viagens
 2481|3002,2481,3002,Material de consumo
-2481|4009,2481,4009,PRODEMGE - Investimento
-2481|4008,2481,4008,Aquisições de itens de TIC
 2481|9601,2481,9601,Pessoal requisitado
-2481|5213,2481,5213,Demais despesas de capital
 2481|3998,2481,3998,Serviços de saúde e medicamentos
 2481|3939,2481,3939,Demais despesas de custeio
-2481|3952,2481,3952,Estagiários
-2481|3031,2481,3031,Demais despesas de custeio
 2481|3607,2481,3607,Demais despesas de custeio
 2481|5113,2481,5113,Obras e projetos de obras
 2481|5107,2481,5107,Obras e projetos
 2481|3699,2481,3699,Demais despesas de custeio
-2481|4008,2481,4008,Aquisições de itens de TIC
-2481|4009,2481,4009,PRODEMGE - Investimento
+2471|899,2471,899,Auxílios diversos (transp alim funeral e etc)
+2471|1314,2471,1314,INSS e Obrigações patronais
+2471|1317,2471,1317,INSS e Obrigações patronais
+2471|1401,2471,1401,Diárias e viagens
+2471|2701,2471,2701,Garantias
+2471|3003,2471,3003,Material de consumo
+2471|3005,2471,3005,Material de consumo
+2471|3010,2471,3010,Serviços de saúde e medicamentos
+2471|3013,2471,3013,Material de consumo
+2471|3015,2471,3015,Material de consumo
+2471|3016,2471,3016,Material de consumo
+2471|3017,2471,3017,Material de consumo
+2471|3023,2471,3023,Frota
+2471|3025,2471,3025,Material de consumo
+2471|3026,2471,3026,Frota
+2471|3030,2471,3030,Material de consumo
+2471|3031,2471,3031,Material de consumo
+2471|3099,2471,3099,Material de consumo
+2471|3301,2471,3301,Diárias e viagens
+2471|3302,2471,3302,Diárias e viagens
+2471|3304,2471,3304,Diárias e viagens
+2471|3502,2471,3502,Consultoria
+2471|3610,2471,3610,Demais despesas de custeio
+2471|3612,2471,3612,Demais despesas de custeio
+2471|3628,2471,3628,Demais despesas de custeio
+2471|3631,2471,3631,Cursos de formação e capacitações
+2471|3699,2471,3699,Demais despesas de custeio
+2471|3703,2471,3703,Terceirizados - MGS
+2471|3704,2471,3704,Terceirizados - MGS
+2471|3705,2471,3705,Terceirizados - MGS
+2471|3906,2471,3906,Demais despesas de custeio
+2471|3910,2471,3910,Demais despesas de custeio
+2471|3911,2471,3911,Demais despesas de custeio
+2471|3912,2471,3912,Utilidade Pública
+2471|3913,2471,3913,Utilidade Pública
+2471|3915,2471,3915,Utilidade Pública
+2471|3917,2471,3917,Frota
+2471|3918,2471,3918,Frota
+2471|3919,2471,3919,Gestão de equipamentos
+2471|3921,2471,3921,Gestão de equipamentos
+2471|3922,2471,3922,Reparo de imóveis
+2471|3924,2471,3924,Cursos de formação e capacitações
+2471|3925,2471,3925,Encargos e Multas
+2471|3926,2471,3926,Encargos e Multas
+2471|3931,2471,3931,Demais despesas de custeio
+2471|3936,2471,3936,PRODEMGE
+2471|3940,2471,3940,Serviços de TIC
+2471|3941,2471,3941,Demais despesas de custeio
+2471|3943,2471,3943,Frota
+2471|3948,2471,3948,Cursos de formação e capacitações
+2471|3951,2471,3951,Obras e projetos de obras
+2471|3952,2471,3952,Estagiários
+2471|3953,2471,3953,Cursos de formação e capacitações
+2471|3955,2471,3955,Demais despesas de custeio
+2471|3956,2471,3956,Demais despesas de custeio
+2471|3959,2471,3959,Demais despesas de custeio
+2471|3962,2471,3962,Serviços de vigilância
+2471|3964,2471,3964,Demais despesas de custeio
+2471|3969,2471,3969,Utilidade Pública
+2471|3975,2471,3975,Fiscalização de serviços
+2471|3981,2471,3981,Elaboração de estudos prévios
+2471|3987,2471,3987,Frota
+2471|3993,2471,3993,Demais despesas de custeio
+2471|3999,2471,3999,Demais despesas de custeio
+2471|4002,2471,4002,Serviços de TIC
+2471|4003,2471,4003,PRODEMGE
+2471|4004,2471,4004,Serviços de TIC
+2471|4006,2471,4006,Aquisições de itens de TIC
+2471|4007,2471,4007,PRODEMGE
+2471|4201,2471,4201,Instrumentos de Saída
+2471|4301,2471,4301,SUBVENÇÕES SOCIAIS
+2471|4501,2471,4501,Subvenções Econômicas - Colchão Metrô
+2471|4502,2471,4502,Subvenção econômica
+2471|4701,2471,4701,Obrigações tributárias
+2471|4703,2471,4703,Obrigações tributárias
+2471|4707,2471,4707,Obrigações tributárias
+2471|4708,2471,4708,Obrigações tributárias
+2471|4709,2471,4709,Obrigações tributárias
+2471|4799,2471,4799,Obrigações tributárias
+2471|5101,2471,5101,Obras e projetos de obras
+2471|5103,2471,5103,Obras e projetos
+2471|5106,2471,5106,Obras e projetos
+2471|5107,2471,5107,Obras e projetos
+2471|5112,2471,5112,Obras e projetos
+2471|5114,2471,5114,Obras e projetos de obras
+2471|5115,2471,5115,Obras e projetos de obras
+2471|5207,2471,5207,Aquisições de itens de TIC
+2471|5208,2471,5208,Aquisições de itens de TIC
+2471|5212,2471,5212,Demais despesas de capital
+2471|5299,2471,5299,Demais despesas de capital
+2471|6107,2471,6107,Aquisição de Imóveis
+2471|9201,2471,9201,DEAs
+2471|9202,2471,9202,DEAs
+2471|9305,2471,9305,Demais despesas de custeio
+2471|9306,2471,9306,Restituição de convênios
+2471|9310,2471,9310,Demais despesas de custeio
+2471|9314,2471,9314,Demais despesas de custeio
+2471|9399,2471,9399,Indenizações e restituições
+2471|4008,2471,4008,Aquisições de itens de TIC
+2471|3616,2471,3616,Frota
+2471|4008,2471,4008,Aquisições de itens de TIC
+2471|4009,2471,4009,PRODEMGE - Investimento
+1101|3030,1101,3030,Demais despesas de custeio
+2471|3971,2471,3971,Radares e sistemas de pesagem
+2471|3973,2471,3973,Radares e sistemas de pesagem
+2471|3903,2471,3903,Demais despesas de custeio
+2471|3939,2471,3939,Demais despesas de custeio
+1301|3029,1301,3029,Manutenção de mudas
+1301|3939,1301,3939,Publicidade
+1301|8301,1301,8301,Despesas de contrato de PPP
+1301|8303,1301,8303,Despesas de contrato de PPP
+1301|8302,1301,8302,Investimento de PPP
+1301|4501,1301,4501,Subvenções econômicas
+1301|8201,1301,8201,Aporte de recursos pelo PPP
+1301|3924,1301,3924,Cursos de formação e capacitações
+1301|9305,1301,9305,Contratos de Concessão ou Permissão
+4631|3939,4631,3939,Publicidade
+4631|8301,4631,8301,Despesas de contrato de PPP
+4631|8303,4631,8303,Despesas de contrato de PPP
+4631|8302,4631,8302,Investimento de PPP
+4631|4501,4631,4501,Subvenções econômicas
+4631|8201,4631,8201,Aporte de recursos pelo PPP
+4631|3924,4631,3924,Cursos de formação e capacitações
+4631|9305,4631,9305,Contratos de Concessão ou Permissão
+4331|3939,4331,3939,Publicidade
+4331|8301,4331,8301,Despesas de contrato de PPP
+4331|8303,4331,8303,Despesas de contrato de PPP
+4331|8302,4331,8302,Investimento de PPP
+4331|4501,4331,4501,Subvenções econômicas
+4331|8201,4331,8201,Aporte de recursos pelo PPP
+4331|3924,4331,3924,Cursos de formação e capacitações
+4331|9305,4331,9305,Contratos de Concessão ou Permissão
+2481|4010,2481,4010,Equipamentos de TIC
+2481|5217,2481,5217,Aquisição de Veículos
+2481|3616,2481,3616,Frota
+2481|3618,2481,3618,Reparo de imóveis
+2481|4101,2481,4101,Instrumentos de Saída
+2481|3993,2481,3993,Demais despesas de custeio
+2481|3951,2481,3951,Obras e projetos de obras
+2481|5222,2481,5222,Demais despesas de capital
+1631|5227,1631,5227,Demais despesas de capital
+2011|3955,2011,3955,Demais despesas de custeio
+2011|9324,2011,9324,Indenizações e restituições
+1371|409,1371,409,Encargos e Multas
+1371|810,1371,810,Auxílios diversos (transp alim funeral e etc)
+1371|1314,1371,1314,INSS e Obrigações patronais
+1371|1317,1371,1317,INSS e Obrigações patronais
+1371|1401,1371,1401,Diárias e viagens
+1371|1501,1371,1501,Diárias e viagens
+1371|3001,1371,3001,Uniforme
+1371|3002,1371,3002,Material de consumo
+1371|3003,1371,3003,Material de consumo
+1371|3004,1371,3004,Material de consumo
+1371|3005,1371,3005,Material de consumo
+1371|3008,1371,3008,Material de consumo
+1371|3010,1371,3010,Serviços de saúde e medicamentos
+1371|3012,1371,3012,Serviços de saúde e medicamentos
+1371|3013,1371,3013,Material de consumo
+1371|3015,1371,3015,Material de consumo
+1371|3016,1371,3016,Material de consumo
+1371|3017,1371,3017,Material de consumo
+1371|3019,1371,3019,Reparo de imóveis
+1371|3020,1371,3020,Material de consumo
+1371|3021,1371,3021,Material de consumo
+1371|3022,1371,3022,Material de consumo
+1371|3023,1371,3023,Frota
+1371|3024,1371,3024,Material de consumo
+1371|3025,1371,3025,Material de consumo
+1371|3026,1371,3026,Frota
+1371|3027,1371,3027,Material de consumo
+1371|3030,1371,3030,Material de consumo
+1371|3032,1371,3032,Material de consumo
+1371|3033,1371,3033,Despesas com aeronaves
+1371|3034,1371,3034,Despesas com aeronaves
+1371|3041,1371,3041,Material de consumo
+1371|3099,1371,3099,Material de consumo
+1371|3101,1371,3101,"Prêmios, diplomas, condecorações e medalhas"
+1371|3201,1371,3201,Material de distribuição gratuita
+1371|3301,1371,3301,Diárias e viagens
+1371|3302,1371,3302,Diárias e viagens
+1371|3304,1371,3304,Diárias e viagens
+1371|3501,1371,3501,Consultoria
+1371|3502,1371,3502,Consultoria
+1371|3604,1371,3604,Diárias e viagens
+1371|3605,1371,3605,LOCAÇÃO DE SERVIÇOS TÉCNICOS E ESPECIALIZADOS ? PESSOA FÍSICA
+1371|3610,1371,3610,Demais despesas de custeio
+1371|3611,1371,3611,Aluguéis e condomínios
+1371|3612,1371,3612,Demais despesas de custeio
+1371|3615,1371,3615,Encargos e Multas
+1371|3616,1371,3616,Frota
+1371|3617,1371,3617,"REPAROS DE EQUIPAMENTOS, INSTALAÇÕES E MATERIAL PERMANENTE"
+1371|3699,1371,3699,Demais despesas de custeio
+1371|3702,1371,3702,Demais terceirizados
+1371|3703,1371,3703,Terceirizados - MGS
+1371|3704,1371,3704,Terceirizados - MGS
+1371|3705,1371,3705,Terceirizados - MGS
+1371|3903,1371,3903,Demais despesas de custeio
+1371|3904,1371,3904,Confecção em geral
+1371|3906,1371,3906,TRANSPORTE E ACONDICIONAMENTO DE MATERIAIS E EQUIPAMENTOS
+1371|3910,1371,3910,Seguros
+1371|3912,1371,3912,Utilidade Pública
+1371|3913,1371,3913,Utilidade Pública
+1371|3915,1371,3915,Utilidade Pública
+1371|3917,1371,3917,Frota
+1371|3918,1371,3918,Frota
+1371|3919,1371,3919,Gestão de equipamentos
+1371|3920,1371,3920,Aluguéis e condomínios
+1371|3921,1371,3921,Gestão de equipamentos
+1371|3922,1371,3922,Reparo de imóveis
+1371|3924,1371,3924,Cursos de formação e capacitações
+1371|3925,1371,3925,Encargos e Multas
+1371|3926,1371,3926,Encargos e Multas
+1371|3927,1371,3927,Serviços de TIC
+1371|3930,1371,3930,Encargos e Multas
+1371|3931,1371,3931,Demais despesas de custeio
+1371|3934,1371,3934,Despesas com aeronaves
+1371|3935,1371,3935,Despesas com aeronaves
+1371|3936,1371,3936,PRODEMGE
+1371|3937,1371,3937,Aluguéis e condomínios
+1371|3938,1371,3938,SERVIÇOS DE IMPRESSÃO E ENCADERNAÇÃO
+1371|3939,1371,3939,Publicidade
+1371|3940,1371,3940,Serviços de TIC
+1371|3941,1371,3941,"ANUIDADES, CERTIFICADOS E REGISTROS"
+1371|3943,1371,3943,Frota
+1371|3948,1371,3948,Cursos de formação e capacitações
+1371|3949,1371,3949,Cursos de formação e capacitações
+1371|3951,1371,3951,Obras e projetos de obras
+1371|3952,1371,3952,Estagiários
+1371|3953,1371,3953,Cursos de formação e capacitações
+1371|3955,1371,3955,EVENTOS DE COMUNICAÇÃO INSTITUCIONAL
+1371|3956,1371,3956,Pesquisas
+1371|3960,1371,3960,SERVICOS DE ATENDIMENTO AO CIDADAO
+1371|3961,1371,3961,Terceirizados - Demais empresas
+1371|3969,1371,3969,Utilidade Pública
+1371|3970,1371,3970,Serviços de TIC
+1371|3971,1371,3971,Serviços de vigilância
+1371|3973,1371,3973,SERVIÇO DE ENGENHARIA PARA OPERAÇÃO DE BENS DE DOMÍNIO PÚBLICO
+1371|3978,1371,3978,Terceirizados - Demais empresas
+1371|3981,1371,3981,SERVIÇOS DE ELABORAÇÃO DE ESTUDOS PRÉVIOS
+1371|3987,1371,3987,Frota
+1371|3988,1371,3988,MULTA POR ATO INFRACIONAL
+1371|3996,1371,3996,TRANSFERENCIA ONEROSA DA POSSE DE BENS IMOVEIS DE PROPRIEDADE DO ESTADO DE MINAS GERAIS
+1371|3999,1371,3999,Outros serviços PJ
+1371|4002,1371,4002,Serviços de TIC
+1371|4003,1371,4003,PRODEMGE
+1371|4004,1371,4004,Serviços de TIC
+1371|4005,1371,4005,Serviços de TIC
+1371|4006,1371,4006,Aquisições de itens de TIC
+1371|4007,1371,4007,PRODEMGE
+1371|4101,1371,4101,Contribuições
+1371|4301,1371,4301,Bolsa Reciclagem
+1371|4701,1371,4701,Obrigações tributárias
+1371|4702,1371,4702,Obrigações tributárias
+1371|4703,1371,4703,Obrigações tributárias
+1371|4704,1371,4704,Obrigações tributárias
+1371|4707,1371,4707,Obrigações tributárias
+1371|4799,1371,4799,Obrigações tributárias
+1371|5103,1371,5103,Obras e projetos
+1371|5107,1371,5107,Obras e projetos
+1371|5110,1371,5110,Obras e projetos de obras
+1371|5114,1371,5114,Obras e projetos de obras
+1371|5201,1371,5201,Despesas com aeronaves
+1371|5204,1371,5204,Demais despesas de capital
+1371|5206,1371,5206,Aquisições de itens de TIC
+1371|5207,1371,5207,Aquisições de itens de TIC
+1371|5208,1371,5208,Aquisições de itens de TIC
+1371|5210,1371,5210,Demais despesas de capital
+1371|5212,1371,5212,Demais despesas de capital
+1371|5214,1371,5214,Demais despesas de capital
+1371|5220,1371,5220,Aquisições de itens de TIC
+1371|5225,1371,5225,Demais despesas de capital
+1371|5227,1371,5227,Demais despesas de capital
+1371|5299,1371,5299,Demais despesas de capital
+1371|9202,1371,9202,DEAs
+1371|9301,1371,9301,Ajuda de Custo
+1371|9306,1371,9306,Restituição de convênios
+1371|9312,1371,9312,Indenizações
+1371|9399,1371,9399,OUTRAS INDENIZAÇÕES E RESTITUIÇÕES
+2091|1314,2091,1314,INSS e Obrigações patronais
+2091|1317,2091,1317,INSS e Obrigações patronais
+2091|1325,2091,1325,INSS e Obrigações patronais
+2091|1401,2091,1401,Diárias e viagens
+2091|3001,2091,3001,Uniforme
+2091|3002,2091,3002,Material de consumo
+2091|3003,2091,3003,Material de consumo
+2091|3004,2091,3004,Material de consumo
+2091|3005,2091,3005,Material de consumo
+2091|3008,2091,3008,Material de consumo
+2091|3010,2091,3010,Serviços de saúde e medicamentos
+2091|3012,2091,3012,Serviços de saúde e medicamentos
+2091|3013,2091,3013,Material de consumo
+2091|3016,2091,3016,Material de consumo
+2091|3017,2091,3017,Material de consumo
+2091|3019,2091,3019,Reparo de imóveis
+2091|3020,2091,3020,Material de consumo
+2091|3021,2091,3021,Material de consumo
+2091|3022,2091,3022,Material de consumo
+2091|3023,2091,3023,Frota
+2091|3024,2091,3024,Material de consumo
+2091|3025,2091,3025,Material de consumo
+2091|3026,2091,3026,Frota
+2091|3027,2091,3027,Material de consumo
+2091|3030,2091,3030,Material de consumo
+2091|3099,2091,3099,Material de consumo
+2091|3101,2091,3101,"Prêmios, diplomas, condecorações e medalhas"
+2091|3301,2091,3301,Diárias e viagens
+2091|3302,2091,3302,Diárias e viagens
+2091|3304,2091,3304,Diárias e viagens
+2091|3502,2091,3502,Consultoria
+2091|3602,2091,3602,Demais despesas de custeio
+2091|3604,2091,3604,Diárias e viagens
+2091|3610,2091,3610,Demais despesas de custeio
+2091|3611,2091,3611,Aluguéis e condomínios
+2091|3612,2091,3612,Demais despesas de custeio
+2091|3616,2091,3616,Frota
+2091|3617,2091,3617,"REPAROS DE EQUIPAMENTOS, INSTALACOES E MATERIAL PERMANENTE"
+2091|3618,2091,3618,Reparo de imóveis
+2091|3699,2091,3699,Demais despesas de custeio
+2091|3702,2091,3702,Demais terceirizados
+2091|3703,2091,3703,Terceirizados - MGS
+2091|3704,2091,3704,Terceirizados - MGS
+2091|3705,2091,3705,Terceirizados - MGS
+2091|3902,2091,3902,VALE-REFEIÇÃO
+2091|3904,2091,3904,Confecção em geral
+2091|3905,2091,3905,TRANSPORTE E ACONDICIONAMENTO DE ANIMAIS
+2091|3906,2091,3906,TRANSPORTE E ACONDICIONAMENTO DE MATERIAIS E EQUIPAMENTOS
+2091|3908,2091,3908,Publicidade
+2091|3910,2091,3910,Seguros
+2091|3911,2091,3911,"ASSINATURAS DE JORNAIS, REVISTAS E PERIÓDICOS"
+2091|3912,2091,3912,Utilidade Pública
+2091|3913,2091,3913,Utilidade Pública
+2091|3915,2091,3915,Utilidade Pública
+2091|3917,2091,3917,Frota
+2091|3918,2091,3918,Frota
+2091|3919,2091,3919,Gestão de equipamentos
+2091|3920,2091,3920,Aluguéis e condomínios
+2091|3921,2091,3921,Gestão de equipamentos
+2091|3922,2091,3922,Reparo de imóveis
+2091|3924,2091,3924,Cursos de formação e capacitações
+2091|3925,2091,3925,Encargos e Multas
+2091|3926,2091,3926,Encargos e Multas
+2091|3930,2091,3930,Encargos e Multas
+2091|3931,2091,3931,Demais despesas de custeio
+2091|3937,2091,3937,Aluguéis e condomínios
+2091|3939,2091,3939,Publicidade
+2091|3940,2091,3940,Serviços de TIC
+2091|3941,2091,3941,"ANUIDADES, CERTIFICADOS E REGISTROS"
+2091|3942,2091,3942,SERVICOS GRAFICOS DE SEGURANCA
+2091|3943,2091,3943,Frota
+2091|3946,2091,3946,Termos de parceria e contratos de gestão
+2091|3948,2091,3948,Cursos de formação e capacitações
+2091|3952,2091,3952,Estagiários
+2091|3958,2091,3958,"CONTRATAÇÃO DE PROJETOS EM PESQUISA DE CIÊNCIA, INOVAÇÃO E TECNOLOGIA"
+2091|3961,2091,3961,Terceirizados - Demais empresas
+2091|3962,2091,3962,Serviços de vigilância
+2091|3969,2091,3969,Utilidade Pública
+2091|3970,2091,3970,Serviços de TIC
+2091|3971,2091,3971,Serviços de vigilância
+2091|3978,2091,3978,Terceirizados - Demais empresas
+2091|3980,2091,3980,INSS e Obrigações patronais
+2091|3987,2091,3987,Frota
+2091|3999,2091,3999,Outros serviços PJ
+2091|4002,2091,4002,Serviços de TIC
+2091|4003,2091,4003,PRODEMGE
+2091|4004,2091,4004,Serviços de TIC
+2091|4005,2091,4005,Serviços de TIC
+2091|4006,2091,4006,Aquisições de itens de TIC
+2091|4301,2091,4301,SUBVENÇÕES SOCIAIS
+2091|4701,2091,4701,Obrigações tributárias
+2091|4703,2091,4703,Obrigações tributárias
+2091|4706,2091,4706,Obrigações tributárias
+2091|4707,2091,4707,Obrigações tributárias
+2091|4799,2091,4799,Obrigações tributárias
+2091|5107,2091,5107,Obras e projetos
+2091|5201,2091,5201,Despesas com aeronaves
+2091|5206,2091,5206,Aquisições de itens de TIC
+2091|5207,2091,5207,Aquisições de itens de TIC
+2091|5208,2091,5208,Aquisições de itens de TIC
+2091|5209,2091,5209,Demais despesas de capital
+2091|5210,2091,5210,Demais despesas de capital
+2091|5211,2091,5211,Serviços de saúde e medicamentos
+2091|5214,2091,5214,Demais despesas de capital
+2091|5217,2091,5217,Aquisição de Veículos
+2091|5226,2091,5226,Demais despesas de capital
+2091|9202,2091,9202,DEAs
+2091|9301,2091,9301,Ajuda de Custo
+2091|9399,2091,9399,OUTRAS INDENIZAÇÕES E RESTITUIÇÕES
+2091|9701,2091,9701,APORTE PARA COBERTURA DO DÉFICIT ATUARIAL DO RPPS
+2101|810,2101,810,Auxílios diversos (transp alim funeral e etc)
+2101|1305,2101,1305,INSS e Obrigações patronais
+2101|1307,2101,1307,INSS e Obrigações patronais
+2101|1314,2101,1314,INSS e Obrigações patronais
+2101|1317,2101,1317,INSS e Obrigações patronais
+2101|1323,2101,1323,Serviços de saúde e medicamentos
+2101|1401,2101,1401,Diárias e viagens
+2101|1501,2101,1501,Diárias e viagens
+2101|3001,2101,3001,Uniforme
+2101|3002,2101,3002,Material de consumo
+2101|3003,2101,3003,Material de consumo
+2101|3004,2101,3004,Material de consumo
+2101|3005,2101,3005,Material de consumo
+2101|3006,2101,3006,Material de consumo
+2101|3007,2101,3007,Material de consumo
+2101|3008,2101,3008,Material de consumo
+2101|3009,2101,3009,Material de consumo
+2101|3010,2101,3010,Serviços de saúde e medicamentos
+2101|3011,2101,3011,Material de consumo
+2101|3012,2101,3012,Serviços de saúde e medicamentos
+2101|3013,2101,3013,Material de consumo
+2101|3015,2101,3015,Material de consumo
+2101|3016,2101,3016,Material de consumo
+2101|3017,2101,3017,Material de consumo
+2101|3019,2101,3019,Reparo de imóveis
+2101|3020,2101,3020,Material de consumo
+2101|3021,2101,3021,Material de consumo
+2101|3022,2101,3022,Material de consumo
+2101|3023,2101,3023,Frota
+2101|3024,2101,3024,Material de consumo
+2101|3025,2101,3025,Material de consumo
+2101|3026,2101,3026,Frota
+2101|3027,2101,3027,Material de consumo
+2101|3029,2101,3029,Material de consumo
+2101|3030,2101,3030,Material de consumo
+2101|3033,2101,3033,Despesas com aeronaves
+2101|3034,2101,3034,Despesas com aeronaves
+2101|3040,2101,3040,Material de consumo
+2101|3041,2101,3041,Material de consumo
+2101|3099,2101,3099,Material de consumo
+2101|3201,2101,3201,Material de distribuição gratuita
+2101|3301,2101,3301,Diárias e viagens
+2101|3302,2101,3302,Diárias e viagens
+2101|3304,2101,3304,Diárias e viagens
+2101|3401,2101,3401,Contratos Administrativos
+2101|3403,2101,3403,INSS e Obrigações patronais
+2101|3404,2101,3404,INSS e Obrigações patronais
+2101|3405,2101,3405,Auxílios diversos (transp alim funeral e etc)
+2101|3502,2101,3502,Consultoria
+2101|3604,2101,3604,Diárias e viagens
+2101|3610,2101,3610,Demais despesas de custeio
+2101|3611,2101,3611,Aluguéis e condomínios
+2101|3612,2101,3612,Demais despesas de custeio
+2101|3615,2101,3615,Encargos e Multas
+2101|3619,2101,3619,CONFERÊNCIAS E EXPOSIÇÕES
+2101|3631,2101,3631,Outros
+2101|3699,2101,3699,Demais despesas de custeio
+2101|3701,2101,3701,Terceirizados - Demais empresas
+2101|3702,2101,3702,Demais terceirizados
+2101|3703,2101,3703,Terceirizados - MGS
+2101|3704,2101,3704,Terceirizados - MGS
+2101|3705,2101,3705,Terceirizados - MGS
+2101|3903,2101,3903,Demais despesas de custeio
+2101|3904,2101,3904,Confecção em geral
+2101|3906,2101,3906,TRANSPORTE E ACONDICIONAMENTO DE MATERIAIS E EQUIPAMENTOS
+2101|3908,2101,3908,Publicidade
+2101|3909,2101,3909,Publicidade
+2101|3910,2101,3910,Seguros
+2101|3911,2101,3911,"ASSINATURAS DE JORNAIS, REVISTAS E PERIÓDICOS"
+2101|3912,2101,3912,Utilidade Pública
+2101|3913,2101,3913,Utilidade Pública
+2101|3915,2101,3915,Utilidade Pública
+2101|3917,2101,3917,Frota
+2101|3918,2101,3918,Frota
+2101|3919,2101,3919,Gestão de equipamentos
+2101|3920,2101,3920,Aluguéis e condomínios
+2101|3921,2101,3921,Gestão de equipamentos
+2101|3922,2101,3922,Reparo de imóveis
+2101|3924,2101,3924,Cursos de formação e capacitações
+2101|3925,2101,3925,Encargos e Multas
+2101|3926,2101,3926,Encargos e Multas
+2101|3927,2101,3927,Serviços de TIC
+2101|3930,2101,3930,Encargos e Multas
+2101|3931,2101,3931,Demais despesas de custeio
+2101|3934,2101,3934,Despesas com aeronaves
+2101|3935,2101,3935,Despesas com aeronaves
+2101|3937,2101,3937,Aluguéis e condomínios
+2101|3939,2101,3939,Publicidade
+2101|3940,2101,3940,Serviços de TIC
+2101|3941,2101,3941,"ANUIDADES, CERTIFICADOS E REGISTROS"
+2101|3943,2101,3943,Frota
+2101|3946,2101,3946,Termos de parceria e contratos de gestão
+2101|3948,2101,3948,Cursos de formação e capacitações
+2101|3952,2101,3952,Estagiários
+2101|3953,2101,3953,Cursos de formação e capacitações
+2101|3961,2101,3961,Terceirizados - Demais empresas
+2101|3962,2101,3962,Serviços de vigilância
+2101|3964,2101,3964,Serviços de Mapeamento e Georreferenciamento
+2101|3970,2101,3970,Serviços de TIC
+2101|3971,2101,3971,Serviços de vigilância
+2101|3978,2101,3978,Terceirizados - Demais empresas
+2101|3980,2101,3980,INSS e Obrigações patronais
+2101|3987,2101,3987,Frota
+2101|3988,2101,3988,MULTA POR ATO INFRACIONAL
+2101|3993,2101,3993,"APOIO A PROJETOS DE INCENTIVO A INOVACAO E A PESQUISA CIENTIFICA E TECNOLOGICA, A CAPACITACAO TECNOLOGICA E AO ALCANCE DA AUTONOMIA TECNOLOGICA"
+2101|3994,2101,3994,Despesas com aeronaves
+2101|3999,2101,3999,Outros serviços PJ
+2101|4002,2101,4002,Serviços de TIC
+2101|4003,2101,4003,PRODEMGE
+2101|4004,2101,4004,Serviços de TIC
+2101|4005,2101,4005,Serviços de TIC
+2101|4006,2101,4006,Aquisições de itens de TIC
+2101|4007,2101,4007,PRODEMGE
+2101|4701,2101,4701,Obrigações tributárias
+2101|4703,2101,4703,Obrigações tributárias
+2101|4706,2101,4706,Obrigações tributárias
+2101|4707,2101,4707,Obrigações tributárias
+2101|4799,2101,4799,Obrigações tributárias
+2101|5101,2101,5101,Obras e projetos de obras
+2101|5102,2101,5102,Outros
+2101|5103,2101,5103,Obras e projetos
+2101|5201,2101,5201,Despesas com aeronaves
+2101|5203,2101,5203,Demais despesas de capital
+2101|5204,2101,5204,Demais despesas de capital
+2101|5205,2101,5205,Demais despesas de capital
+2101|5206,2101,5206,Aquisições de itens de TIC
+2101|5207,2101,5207,Aquisições de itens de TIC
+2101|5208,2101,5208,Aquisições de itens de TIC
+2101|5209,2101,5209,Demais despesas de capital
+2101|5210,2101,5210,Demais despesas de capital
+2101|5211,2101,5211,Serviços de saúde e medicamentos
+2101|5212,2101,5212,Demais despesas de capital
+2101|5214,2101,5214,Demais despesas de capital
+2101|5216,2101,5216,Aquisição de Veículos
+2101|5217,2101,5217,Demais despesas de capital
+2101|5220,2101,5220,Aquisições de itens de TIC
+2101|5225,2101,5225,Demais despesas de capital
+2101|5226,2101,5226,Demais despesas de capital
+2101|5299,2101,5299,Demais despesas de capital
+2101|6101,2101,6101,AQUISIÇÃO DE IMÓVEIS - TERRENOS
+2101|9108,2101,9108,Precatórios
+2101|9202,2101,9202,DEAs
+2101|9301,2101,9301,Ajuda de Custo
+2101|9306,2101,9306,Restituição de convênios
+2101|9312,2101,9312,Indenizações
+2101|9399,2101,9399,OUTRAS INDENIZAÇÕES E RESTITUIÇÕES
+2241|702,2241,702,Encargos e Multas
+2241|1314,2241,1314,INSS e Obrigações patronais
+2241|1317,2241,1317,INSS e Obrigações patronais
+2241|1401,2241,1401,Diárias e viagens
+2241|3001,2241,3001,Uniforme
+2241|3003,2241,3003,Material de consumo
+2241|3004,2241,3004,Material de consumo
+2241|3005,2241,3005,Material de consumo
+2241|3010,2241,3010,Serviços de saúde e medicamentos
+2241|3012,2241,3012,Serviços de saúde e medicamentos
+2241|3013,2241,3013,Material de consumo
+2241|3015,2241,3015,Material de consumo
+2241|3016,2241,3016,Outros
+2241|3017,2241,3017,Material de consumo
+2241|3019,2241,3019,Reparo de imóveis
+2241|3020,2241,3020,Material de consumo
+2241|3021,2241,3021,Material de consumo
+2241|3022,2241,3022,Material de consumo
+2241|3023,2241,3023,Frota
+2241|3024,2241,3024,Material de consumo
+2241|3025,2241,3025,Material de consumo
+2241|3026,2241,3026,Frota
+2241|3027,2241,3027,Material de consumo
+2241|3041,2241,3041,Material de consumo
+2241|3099,2241,3099,Material de consumo
+2241|3101,2241,3101,"Prêmios, diplomas, condecorações e medalhas"
+2241|3301,2241,3301,Diárias e viagens
+2241|3302,2241,3302,Diárias e viagens
+2241|3304,2241,3304,Diárias e viagens
+2241|3502,2241,3502,Consultoria
+2241|3604,2241,3604,Diárias e viagens
+2241|3610,2241,3610,Demais despesas de custeio
+2241|3612,2241,3612,Demais despesas de custeio
+2241|3616,2241,3616,Frota
+2241|3625,2241,3625,CONTRATACAO PARA PRESTACAO DE SERVICO POR CREDENCIADOS
+2241|3699,2241,3699,Demais despesas de custeio
+2241|3702,2241,3702,Demais terceirizados
+2241|3703,2241,3703,Terceirizados - MGS
+2241|3704,2241,3704,Terceirizados - MGS
+2241|3705,2241,3705,Terceirizados - MGS
+2241|3903,2241,3903,Demais despesas de custeio
+2241|3904,2241,3904,Confecção em geral
+2241|3906,2241,3906,TRANSPORTE E ACONDICIONAMENTO DE MATERIAIS E EQUIPAMENTOS
+2241|3908,2241,3908,Publicidade
+2241|3909,2241,3909,Publicidade
+2241|3910,2241,3910,Seguros
+2241|3911,2241,3911,"ASSINATURAS DE JORNAIS, REVISTAS E PERIÓDICOS"
+2241|3912,2241,3912,Utilidade Pública
+2241|3913,2241,3913,Utilidade Pública
+2241|3915,2241,3915,Utilidade Pública
+2241|3917,2241,3917,Frota
+2241|3918,2241,3918,Frota
+2241|3919,2241,3919,Gestão de equipamentos
+2241|3922,2241,3922,Reparo de imóveis
+2241|3924,2241,3924,Cursos de formação e capacitações
+2241|3925,2241,3925,Encargos e Multas
+2241|3926,2241,3926,Encargos e Multas
+2241|3927,2241,3927,Serviços de TIC
+2241|3930,2241,3930,Encargos e Multas
+2241|3931,2241,3931,Demais despesas de custeio
+2241|3933,2241,3933,TAXA DE ADMINISTRAÇÃO
+2241|3939,2241,3939,Publicidade
+2241|3940,2241,3940,Serviços de TIC
+2241|3941,2241,3941,"ANUIDADES, CERTIFICADOS E REGISTROS"
+2241|3943,2241,3943,Frota
+2241|3948,2241,3948,Cursos de formação e capacitações
+2241|3952,2241,3952,Estagiários
+2241|3964,2241,3964,Serviços de Mapeamento e Georreferenciamento
+2241|3970,2241,3970,Serviços de TIC
+2241|3973,2241,3973,SERVIÇO DE ENGENHARIA PARA OPERAÇÃO DE BENS DE DOMÍNIO PÚBLICO
+2241|3978,2241,3978,Terceirizados - Demais empresas
+2241|3987,2241,3987,Frota
+2241|3999,2241,3999,Outros serviços PJ
+2241|4002,2241,4002,Serviços de TIC
+2241|4003,2241,4003,PRODEMGE
+2241|4004,2241,4004,Serviços de TIC
+2241|4005,2241,4005,Serviços de TIC
+2241|4006,2241,4006,Aquisições de itens de TIC
+2241|4101,2241,4101,Contribuições aos Comitês de Bacia
+2241|4201,2241,4201,Instrumentos de Saída
+2241|4301,2241,4301,SUBVENÇÕES SOCIAIS
+2241|4701,2241,4701,Obrigações tributárias
+2241|4703,2241,4703,Obrigações tributárias
+2241|4706,2241,4706,Obrigações tributárias
+2241|4799,2241,4799,Obrigações tributárias
+2241|5201,2241,5201,Despesas com aeronaves
+2241|5204,2241,5204,Demais despesas de capital
+2241|5206,2241,5206,Aquisições de itens de TIC
+2241|5207,2241,5207,Aquisições de itens de TIC
+2241|5208,2241,5208,Aquisições de itens de TIC
+2241|5210,2241,5210,Demais despesas de capital
+2241|5212,2241,5212,Demais despesas de capital
+2241|5217,2241,5217,Demais despesas de capital
+2241|5222,2241,5222,Demais despesas de capital
+2241|5225,2241,5225,Demais despesas de capital
+2241|5230,2241,5230,Demais despesas de capital
+2241|9202,2241,9202,DEAs
+2241|9306,2241,9306,Restituição de convênios
+2241|9310,2241,9310,RESTITUIÇÃO DE RECEITA - EXERCÍCIO ANTERIOR
+2241|9326,2241,9326,Demais despesas de custeio
+2241|9399,2241,9399,OUTRAS INDENIZAÇÕES E RESTITUIÇÕES
+4341|1314,4341,1314,INSS e Obrigações patronais
+4341|1317,4341,1317,INSS e Obrigações patronais
+4341|1401,4341,1401,Diárias e viagens
+4341|3005,4341,3005,Material de consumo
+4341|3016,4341,3016,Material de consumo
+4341|3301,4341,3301,Diárias e viagens
+4341|3302,4341,3302,Diárias e viagens
+4341|3304,4341,3304,Diárias e viagens
+4341|3502,4341,3502,SERVIÇOS DE CONSULTORIA ? PESSOA JURÍDICA
+4341|3604,4341,3604,Diárias e viagens
+4341|3704,4341,3704,Terceirizados - MGS
+4341|3705,4341,3705,Terceirizados - MGS
+4341|3903,4341,3903,Demais despesas de custeio
+4341|3912,4341,3912,Utilidade Pública
+4341|3924,4341,3924,Cursos de formação e capacitações
+4341|3926,4341,3926,Encargos e Multas
+4341|3940,4341,3940,Serviços de TIC
+4341|3948,4341,3948,Cursos de formação e capacitações
+4341|3964,4341,3964,Serviços de Mapeamento e Georreferenciamento
+4341|3999,4341,3999,Outros serviços PJ
+4341|4003,4341,4003,PRODEMGE
+4341|4101,4341,4101,Contribuições
+4341|4801,4341,4801,Bolsa Verde
+4341|5103,4341,5103,Obras e projetos
+4341|5210,4341,5210,Demais despesas de capital
+4341|5214,4341,5214,Demais despesas de capital
+4341|9202,4341,9202,DEAs
+2091|9312,2091,9312,Indenizações
+2091|9301,2091,9301,Indenizações
+2091|5225,2091,5225,Demais despesas de capital
+2091|3012,2091,3012,Serviços de saúde e medicamentos
+2091|3023,2091,3023,Frota
+2101|4006,2101,4006,Aquisições de itens de TIC
+2101|5112,2101,5112,Obras e projetos
+2101|5227,2101,5227,Demais aquisições
+2101|4702,2101,4702,Obrigações tributárias
+2101|3006,2101,3006,Material de consumo
+2241|9301,2241,9301,Indenizações
+1371|4008,1371,4008,Aquisições de itens de TIC
+2091|4008,2091,4008,Aquisições de itens de TIC
+2101|4008,2101,4008,Aquisições de itens de TIC
+2241|4008,2241,4008,Aquisições de itens de TIC
+4341|4008,4341,4008,Aquisições de itens de TIC
+1371|4009,1371,4009,PRODEMGE - Investimento
+2091|4009,2091,4009,PRODEMGE - Investimento
+2101|4009,2101,4009,PRODEMGE - Investimento
+2241|4009,2241,4009,PRODEMGE - Investimento
+4341|4009,4341,4009,PRODEMGE - Investimento
+2091|3955,2091,3955,Demais despesas de custeio
+2241|3934,2241,3934,Despesas com aeronaves
+2091|4704,2091,4704,Obrigações tributárias
+2241|5202,2241,5202,Equipamentos e material permanente
+4341|5299,4341,5299,Demais despesas de capital
+4381|5101,4381,5101,Obras e projetos de obras
+4381|3015,4381,3015,Material de consumo
+4381|3101,4381,3101,Demais despesas de custeio
+4381|3955,4381,3955,Eventos de Comunicação Institucional
+4381|5214,4381,5214,Demais despesas de capital
+4381|5222,4381,5222,Demais despesas de capital
+1081|3941,1081,3941,Demais despesas de custeio
+2061|2001,2061,2001,Bolsa de pesquisa
+2061|899,2061,899,Demais despesas de custeio
+2061|3104,2061,3104,Premiações
+2061|4905,2061,4905,Estagiários
+2061|5103,2061,5103,Obras e projetos
+2441|3022,2441,3022,Material de consumo
+2441|5212,2441,5212,Demais despesas de capital
+2261|1801,2261,1801,Bolsas de estudos
+2261|3978,2261,3978,Terceirizados - Demais empresas
+2261|3014,2261,3014,Material de consumo
+2261|3605,2261,3605,Demais despesas de custeio
+2261|3932,2261,3932,Demais despesas de custeio
+2261|3974,2261,3974,Concurso público
+2261|5215,2261,5215,Demais despesas de capital
+1541|811,1541,811,Auxílios diversos (transp alim funeral e etc)
+1541|1401,1541,1401,Diárias e viagens
+1541|2001,1541,2001,Bolsa de pesquisa
+1541|3013,1541,3013,Material de consumo
+1541|3302,1541,3302,Diárias e viagens
+1541|3305,1541,3305,Diárias e viagens
+1541|3604,1541,3604,Diárias e viagens
+1541|3605,1541,3605,Demais despesas de custeio
+1541|3606,1541,3606,Alimentação
+1541|3625,1541,3625,Demais despesas de custeio
+1541|3626,1541,3626,Material de consumo
+1541|3627,1541,3627,Demais despesas de custeio
+1541|3631,1541,3631,Cursos de formação e capacitações
+1541|3903,1541,3903,Alimentação
+1541|3920,1541,3920,Aluguéis e condomínios
+1541|3924,1541,3924,Cursos de formação e capacitações
+1541|3932,1541,3932,Demais despesas de custeio
+1541|3971,1541,3971,Serviços de vigilância
+1541|4002,1541,4002,Serviços de TIC
+1502|3998,1502,3998,Serviços de saúde e medicamentos
+1502|5107,1502,5107,Obras e projetos
+1502|5213,1502,5213,Demais despesas de capital
+1502|3607,1502,3607,Demais despesas de custeio
+1502|5113,1502,5113,Obras e projetos de obras
+1502|5106,1502,5106,Obras e projetos
+1502|3002,1502,3002,Material de consumo
+2441|3903,2441,3903,Demais despesas de custeio
