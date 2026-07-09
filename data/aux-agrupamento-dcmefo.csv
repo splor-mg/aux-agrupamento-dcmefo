@@ -4490,7 +4490,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2301|5227,2301,5227,Demais aquisições
 2301|5230,2301,5230,Demais aquisições
 2301|6101,2301,6101,Aquisição de Imóveis
-2301|6107,2301,6107,Aquisição de Imóveis
+2301|6107,2301,6107,Imóveis para realização de obras
 2301|9113,2301,9113,Precatórios
 2301|9202,2301,9202,DEAs
 2301|9301,2301,9301,Demais despesas de custeio
@@ -7792,3 +7792,6 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1502|5106,1502,5106,Obras e projetos
 1502|3002,1502,3002,Material de consumo
 2441|3903,2441,3903,Demais despesas de custeio
+2371|9301,2371,9301,Ajuda de Custo
+2371|9302,2371,9302,Ajuda de Custo
+2371|3909,2371,3909,Demais despesas de custeio
