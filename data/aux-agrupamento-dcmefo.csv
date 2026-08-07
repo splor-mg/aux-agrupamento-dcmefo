@@ -7,7 +7,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1071|3003,1071,3003,Material de consumo
 1071|3004,1071,3004,Material de consumo
 1071|3005,1071,3005,Material de consumo
-1071|3008,1071,3008,Material de consumo
+1071|3008,1071,3008,Alimentação
 1071|3009,1071,3009,Material de consumo
 1071|3010,1071,3010,Serviços de saúde e medicamentos
 1071|3013,1071,3013,Material de consumo
@@ -710,6 +710,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1251|3969,1251,3969,Utilidade Pública
 1251|3970,1251,3970,Serviços de TIC
 1251|3971,1251,3971,Serviços de vigilância
+1251|3973,1251,3973,Demais despesas de custeio
 1251|3978,1251,3978,Terceirizados - Demais empresas
 1251|3981,1251,3981,Demais despesas de custeio
 1251|3987,1251,3987,Frota
@@ -1316,6 +1317,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1401|5212,1401,5212,Demais despesas de capital
 1401|5213,1401,5213,Demais despesas de capital
 1401|5214,1401,5214,Demais despesas de capital
+1401|5214,1401,5214,Demais despesas de capital
 1401|5216,1401,5216,Aquisição de Veículos
 1401|5217,1401,5217,Demais despesas de capital
 1401|5219,1401,5219,Demais despesas de capital
@@ -1847,7 +1849,9 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1511|3604,1511,3604,Diárias e viagens
 1511|3611,1511,3611,Aluguéis e condomínios
 1511|3612,1511,3612,Demais despesas de custeio
+1511|3616,1511,3616,Frota
 1511|3618,1511,3618,Reparo de imóveis
+1511|3622,1511,3622,Aluguéis e condomínios
 1511|3701,1511,3701,Terceirizados - Demais empresas
 1511|3702,1511,3702,Terceirizados - Demais empresas
 1511|3703,1511,3703,Terceirizados - MGS
@@ -1909,9 +1913,12 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1511|4703,1511,4703,Obrigações tributárias
 1511|4706,1511,4706,Obrigações tributárias
 1511|4707,1511,4707,Obrigações tributárias
+1511|4708,1511,4708,Obrigações tributárias
 1511|4710,1511,4710,Obrigações tributárias
 1511|5101,1511,5101,Obras e projetos de obras
+1511|5102,1511,5102,Obras e projetos de obras
 1511|5103,1511,5103,Obras e projetos
+1511|5106,1511,5106,Obras e projetos
 1511|5107,1511,5107,Obras e projetos
 1511|5113,1511,5113,Obras e projetos de obras
 1511|5201,1511,5201,Despesas com aeronaves
@@ -1930,8 +1937,10 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 1511|5217,1511,5217,Demais despesas de capital
 1511|5220,1511,5220,Aquisições de itens de TIC
 1511|5222,1511,5222,Demais despesas de capital
+1511|5224,1511,5224,Demais despesas de capital
 1511|5225,1511,5225,Demais despesas de capital
 1511|5227,1511,5227,Demais despesas de capital
+1511|5299,1511,5299,Demais despesas de capital
 1511|9202,1511,9202,DEAs
 1511|9301,1511,9301,Demais despesas de custeio
 1511|9306,1511,9306,Restituição de convênios
@@ -2822,6 +2831,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2041|3612,2041,3612,Demais despesas de custeio
 2041|3704,2041,3704,Terceirizados - MGS
 2041|3705,2041,3705,Terceirizados - MGS
+2041|3903,2041,3903,Demais despesas de custeio
 2041|3909,2041,3909,Publicidade
 2041|3911,2041,3911,Demais despesas de custeio
 2041|3912,2041,3912,Utilidade Pública
@@ -3429,7 +3439,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2161|5208,2161,5208,Aquisições de itens de TIC
 2161|5210,2161,5210,Demais despesas de capital
 2161|5211,2161,5211,Serviços de saúde e medicamentos
-2161|5212,2161,5212,Demais despesas de capital
+2161|5212,2161,5212,Demais aquisições
 2161|5213,2161,5213,Demais despesas de capital
 2161|5214,2161,5214,Demais despesas de capital
 2161|5216,2161,5216,Demais despesas de capital
@@ -7659,7 +7669,7 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2241|3952,2241,3952,Estagiários
 2241|3964,2241,3964,Serviços de Mapeamento e Georreferenciamento
 2241|3970,2241,3970,Serviços de TIC
-2241|3973,2241,3973,SERVIÇO DE ENGENHARIA PARA OPERAÇÃO DE BENS DE DOMÍNIO PÚBLICO
+2241|3973,2241,3973,Implantação e manutenção preventiva e corretiva de Plataformas de Coleta de Dados
 2241|3978,2241,3978,Terceirizados - Demais empresas
 2241|3987,2241,3987,Frota
 2241|3999,2241,3999,Outros serviços PJ
@@ -7795,3 +7805,127 @@ chave_agrupamento,uo_cod,elemento_item_cod,agrupamento_dcmefo
 2371|9301,2371,9301,Ajuda de Custo
 2371|9302,2371,9302,Ajuda de Custo
 2371|3909,2371,3909,Demais despesas de custeio
+2161|3605,2161,3605,Demais despesas de custeio
+2161|3618,2161,3618,Reparo de imóveis
+2161|3927,2161,3927,Serviços de TIC
+2161|3953,2161,3953,Cursos de formação e capacitações
+2161|5103,2161,5103,Obras e projetos
+2161|3978,2161,3978,Terceirizados - Demais empresas
+2161|3917,2161,3917,Frota
+2061|3938,2061,3938,Demais despesas de custeio
+2161|3938,2161,3938,Demais despesas de custeio
+2161|3502,2161,3502,Consultoria
+2161|3201,2161,3201,Demais despesas de custeio
+2151|3631,2151,3631,Cursos de formação e capacitações
+2151|3972,2151,3972,Utilidade Pública
+2151|5101,2151,5101,Obras e projetos de obras
+2151|3042,2151,3042,Material de consumo
+2151|3950,2151,3950,Diárias e viagens
+2151|5106,2151,5106,Obras e projetos
+2151|3703,2151,3703,Terceirizados - MGS
+2151|3704,2151,3704,Terceirizados - MGS
+2151|3705,2151,3705,Terceirizados - MGS
+2151|3023,2151,3023,Frota
+2151|5112,2151,5112,Obras e projetos
+2151|3925,2151,3925,Encargos e Multas
+2211|3616,2211,3616,Frota
+4751|810,4751,810,Auxílios diversos (transp alim funeral e etc)
+4751|1317,4751,1317,INSS e Obrigações patronais
+4751|1401,4751,1401,Diárias e viagens
+4751|1501,4751,1501,Diárias e viagens
+4751|3003,4751,3003,Material de consumo
+4751|3004,4751,3004,Material de consumo
+4751|3005,4751,3005,Material de consumo
+4751|3008,4751,3008,Material de consumo
+4751|3010,4751,3010,Serviços de saúde e medicamentos
+4751|3015,4751,3015,Material de consumo
+4751|3016,4751,3016,Material de consumo
+4751|3017,4751,3017,Material de consumo
+4751|3018,4751,3018,Material de consumo
+4751|3019,4751,3019,Reparo de imóveis
+4751|3020,4751,3020,Material de consumo
+4751|3021,4751,3021,Material de consumo
+4751|3022,4751,3022,Material de consumo
+4751|3023,4751,3023,Frota
+4751|3024,4751,3024,Material de consumo
+4751|3025,4751,3025,Material de consumo
+4751|3026,4751,3026,Frota
+4751|3030,4751,3030,Material de consumo
+4751|3040,4751,3040,Material de consumo
+4751|3099,4751,3099,Material de consumo
+4751|3301,4751,3301,Diárias e viagens
+4751|3302,4751,3302,Diárias e viagens
+4751|3304,4751,3304,Diárias e viagens
+4751|3601,4751,3601,Estagiários
+4751|3610,4751,3610,Demais despesas de custeio
+4751|3612,4751,3612,Demais despesas de custeio
+4751|3617,4751,3617,Demais despesas de custeio
+4751|3618,4751,3618,Reparo de imóveis
+4751|3621,4751,3621,Advogados Dativos
+4751|3622,4751,3622,Aluguéis e condomínios
+4751|3699,4751,3699,Demais despesas de custeio
+4751|3701,4751,3701,Terceirizados - Demais empresas
+4751|3702,4751,3702,Terceirizados - Demais empresas
+4751|3703,4751,3703,Terceirizados - MGS
+4751|3704,4751,3704,Terceirizados - MGS
+4751|3705,4751,3705,Terceirizados - MGS
+4751|3904,4751,3904,Demais despesas de custeio
+4751|3906,4751,3906,Demais despesas de custeio
+4751|3910,4751,3910,Demais despesas de custeio
+4751|3911,4751,3911,Demais despesas de custeio
+4751|3912,4751,3912,Utilidade Pública
+4751|3913,4751,3913,Utilidade Pública
+4751|3915,4751,3915,Utilidade Pública
+4751|3917,4751,3917,Frota
+4751|3918,4751,3918,Frota
+4751|3919,4751,3919,Gestão de equipamentos
+4751|3920,4751,3920,Aluguéis e condomínios
+4751|3921,4751,3921,Gestão de equipamentos
+4751|3922,4751,3922,Reparo de imóveis
+4751|3925,4751,3925,Encargos judiciais
+4751|3926,4751,3926,Encargos e Multas
+4751|3927,4751,3927,Serviços de TIC
+4751|3930,4751,3930,Encargos e Multas
+4751|3931,4751,3931,Demais despesas de custeio
+4751|3936,4751,3936,PRODEMGE
+4751|3937,4751,3937,Aluguéis e condomínios
+4751|3940,4751,3940,Serviços de TIC
+4751|3942,4751,3942,Demais despesas de custeio
+4751|3943,4751,3943,Frota
+4751|3948,4751,3948,Cursos de formação e capacitações
+4751|3961,4751,3961,Terceirizados - Demais empresas
+4751|3962,4751,3962,Serviços de vigilância
+4751|3967,4751,3967,Demais despesas de custeio
+4751|3969,4751,3969,Utilidade Pública
+4751|3970,4751,3970,Serviços de TIC
+4751|3974,4751,3974,Concurso público
+4751|3987,4751,3987,Frota
+4751|3997,4751,3997,Demais despesas de custeio
+4751|3999,4751,3999,Demais despesas de custeio
+4751|4002,4751,4002,Serviços de TIC
+4751|4003,4751,4003,PRODEMGE
+4751|4004,4751,4004,Serviços de TIC
+4751|4005,4751,4005,Serviços de TIC
+4751|4006,4751,4006,Aquisições de itens de TIC
+4751|4007,4751,4007,PRODEMGE
+4751|4701,4751,4701,Obrigações tributárias
+4751|4703,4751,4703,Obrigações tributárias
+4751|4707,4751,4707,Obrigações tributárias
+4751|5206,4751,5206,Aquisições de itens de TIC
+4751|5207,4751,5207,Aquisições de itens de TIC
+4751|5208,4751,5208,Aquisições de itens de TIC
+4751|5210,4751,5210,Demais despesas de capital
+4751|5212,4751,5212,Demais despesas de capital
+4751|5214,4751,5214,Demais despesas de capital
+4751|5217,4751,5217,Demais despesas de capital
+4751|5220,4751,5220,Aquisições de itens de TIC
+4751|5225,4751,5225,Demais despesas de capital
+4751|5230,4751,5230,Demais despesas de capital
+4751|9202,4751,9202,DEAs
+4751|9301,4751,9301,Demais despesas de custeio
+4751|9312,4751,9312,Demais despesas de custeio
+4751|9399,4751,9399,Indenizações e restituições
+4751|3027,4751,3027,Material de consumo
+4751|4008,4751,4008,Aquisições de itens de TIC
+4751|4009,4751,4009,PRODEMGE - Investimento
+4751|3941,4751,3941,Demais despesas de custeio
